@@ -90,6 +90,7 @@
 
 ## Go 
 
+- [wgpsec/ENScan_GO](https://github.com/wgpsec/ENScan_GO) - 一款基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。
 - [zema1/watchvuln](https://github.com/zema1/watchvuln) - 一个高价值漏洞采集与推送服务 | collect valueable vulnerability and push it
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
@@ -315,7 +316,7 @@
 - [AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project
 - [conwnet/wpa-dictionary](https://github.com/conwnet/wpa-dictionary) - WPA/WPA2 密码字典，用于 wifi 密码暴力破解
 - [ice-doom/EyeJo](https://github.com/ice-doom/EyeJo) - EyeJo是一款自动化资产风险评估平台，可以协助甲方安全人员或乙方安全人员对授权的资产中进行排查，快速发现存在的薄弱点和攻击面。
-- [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python爬虫代理IP池(proxy pool)
+- [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python ProxyPool for web spider
 - [slomkowski/nginx-config-formatter](https://github.com/slomkowski/nginx-config-formatter) - nginx config file formatter/beautifier written in Python with no additional dependencies.
 - [elastic/elasticsearch-py](https://github.com/elastic/elasticsearch-py) - Official Python client for Elasticsearch
 - [Chia-Network/chia-blockchain](https://github.com/Chia-Network/chia-blockchain) - Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
