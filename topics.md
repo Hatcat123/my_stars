@@ -550,6 +550,7 @@
 - [threedr3am/learnjavabug](https://github.com/threedr3am/learnjavabug) - Java安全相关的漏洞和技术demo，原生Java、Fastjson、Jackson、Hessian2、XML反序列化漏洞利用和Spring、Dubbo、Shiro、CAS、Tomcat、RMI、Nexus等框架\中间件\功能的exploits以及Java Security Manager绕过、Dubbo-Hessian2安全加固等等实践代码。
 - [badboycxcc/script](https://github.com/badboycxcc/script) - 各种脚本、漏洞利用工具
 - [j3ers3/Hello-Java-Sec](https://github.com/j3ers3/Hello-Java-Sec) - ☕️ Java Security，安全编码和代码审计
+- [hakivvi/CVE-2022-29464](https://github.com/hakivvi/CVE-2022-29464) - WSO2 RCE (CVE-2022-29464) exploit and writeup.
 - [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
 - [medasz/cve-monitor](https://github.com/medasz/cve-monitor) - cve monitor
 - [r0eXpeR/SecurityRSS](https://github.com/r0eXpeR/SecurityRSS) - 关于网络安全订阅源的推荐 - 充实你的订阅源，提高信息质量。
