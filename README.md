@@ -254,7 +254,7 @@
 - [duzhi5368/AwesomeAllInOne](https://github.com/duzhi5368/AwesomeAllInOne) - Sort.
 - [hacklcx/HFish](https://github.com/hacklcx/HFish) - 安全、可靠、简单、免费的企业级蜜罐
 - [hannoch/scaner](https://github.com/hannoch/scaner) - 扫描器是来自GitHub平台的开源扫描器的集合，包括子域枚举、数据库漏洞扫描器、弱密码或信息泄漏扫描器、端口扫描器、指纹扫描器以及其他大规模扫描仪、模块扫描器等。对于其他著名的扫描工具，如：awvs、nmap，w3af将不包含在集合范围内。
-- [jwxa2015/honeypotcollection](https://github.com/jwxa2015/honeypotcollection) - 蜜罐集合
+- [qboy0000/honeypotcollection](https://github.com/qboy0000/honeypotcollection) - 蜜罐集合
 - [rebeyond/Behinder](https://github.com/rebeyond/Behinder) - “冰蝎”动态二进制加密网站管理客户端
 - [Alivon/Panda-Learning](https://github.com/Alivon/Panda-Learning) - 已终止该项目
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
