@@ -689,7 +689,7 @@
 - [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 - [kiks7/rusty_joomla_rce](https://github.com/kiks7/rusty_joomla_rce) - Rusty Joomla RCE Exploit
 - [z16388/wechat_tools](https://github.com/z16388/wechat_tools) - 在一个微信工具的基础上，通过增加log的方式，获取公众号推送内容。
-- [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) - 微信HOOK、微信机器人 、企微、企微hook、企业微信接口
+- [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) - 微信HOOK、微信机器人 、微信接口、企微、企微hook、企业微信接口、WXWork
 - [P4ck/Emergency](https://github.com/P4ck/Emergency) - 应急响应脚本
 - [tp4a/teleport](https://github.com/tp4a/teleport) - Teleport是一款简单易用的堡垒机系统。
 - [phith0n/realworldctf](https://github.com/phith0n/realworldctf) - My Real World CTF challenges
