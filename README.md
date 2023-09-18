@@ -16,6 +16,7 @@
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Others](#others)
@@ -195,6 +196,10 @@
 - [coolhwm/leshare-shop-wepy](https://github.com/coolhwm/leshare-shop-wepy) - 基于微信小程序的在线商城，采用wepy框架开发
 - [moyanxiu/shopApp](https://github.com/moyanxiu/shopApp) - 移动商城微信小程序
 - [EastWorld/wechat-app-mall](https://github.com/EastWorld/wechat-app-mall) - 微信小程序商城，微信小程序微店
+
+## Jupyter Notebook 
+
+- [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
 
 ## Lua 
 
@@ -412,7 +417,6 @@
 - [we1h0/SecurityManageFramwork](https://github.com/we1h0/SecurityManageFramwork) - Security Manage Framwork is a security management platform for enterprise intranet, which includes asset management, vulnerability management, account management, knowledge base management, security s
 - [cowrie/cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://cowrie.readthedocs.io
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
-- [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [Hatcat123/XianyuSdd](https://github.com/Hatcat123/XianyuSdd) - 爬取闲鱼某关键字实时信息，将最新的发送到钉钉群聊。更多我们共同开发的项目（咸鱼反爬更新，只能作为学习使用）
 - [H4ckForJob/dirmap](https://github.com/H4ckForJob/dirmap) - An advanced web directory & file scanning tool that will be more powerful than DirBuster, Dirsearch, cansina, and Yu Jian.一个高级web目录、文件扫描工具，功能将会强于DirBuster、Dirsearch、cansina、御剑。
