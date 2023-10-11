@@ -124,7 +124,7 @@
 
 - [tencentyun/qcloud-documents](https://github.com/tencentyun/qcloud-documents) - 腾讯云官方文档
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
-- [Threekiii/Vulnerability-Wiki](https://github.com/Threekiii/Vulnerability-Wiki) - 基于 docsify 部署，目前漏洞数量 999+
+- [Threekiii/Vulnerability-Wiki](https://github.com/Threekiii/Vulnerability-Wiki) - 基于 docsify 部署，目前漏洞数量 1000+
 - [satan1a/TheRoadOfSO](https://github.com/satan1a/TheRoadOfSO) - 学习安全运营的记录 | The knowledge base of security operation
 - [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总
 - [FeeiCN/Security-PPT](https://github.com/FeeiCN/Security-PPT) - Security-related Slide Presentation & Security Research Report（大安全各领域各公司各会议分享的PPT以及各类安全研究报告）
@@ -213,6 +213,7 @@
 
 ## Others 
 
+- [dongshixiaohehe/vxarticle_spider](https://github.com/dongshixiaohehe/vxarticle_spider) - 微信公众号文章采集爬虫，点赞数，评论数，阅读数，万能key，twitter爬虫，突破twitter限制，twitter数据采集，提供twitter,gzh,xhs等全量数据，联系q：1095087360
 - [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
 - [Bypass007/Safety-Project-Collection](https://github.com/Bypass007/Safety-Project-Collection) - 收集一些比较优秀的开源安全项目，以帮助甲方安全从业人员构建企业安全能力。
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
