@@ -26,6 +26,7 @@
 - [cli](#cli)
 - [code-review](#code-review)
 - [compiler](#compiler)
+- [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
 - [cpp](#cpp)
 - [css](#css)
@@ -215,6 +216,10 @@
 ## compiler 
 
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
+
+## computer-science 
+
+- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 
 ## computer-vision 
 
