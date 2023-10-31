@@ -530,6 +530,7 @@
 
 ## others 
 
+- [JDArmy/DSRE](https://github.com/JDArmy/DSRE) - 数据安全风险枚举框架（Data Security Risk Enumeration）
 - [superBiuBiuMan/wechatMiniAppReverse](https://github.com/superBiuBiuMan/wechatMiniAppReverse) - 微信小程序解密并反编译
 - [lucienyida/yida](https://github.com/lucienyida/yida) - 收集全网薅羊毛脚本
 - [dongshixiaohehe/vxarticle_spider](https://github.com/dongshixiaohehe/vxarticle_spider) - 微信公众号文章采集爬虫，点赞数，评论数，阅读数，万能key，twitter爬虫，突破twitter限制，twitter数据采集，提供twitter,gzh,xhs等全量数据，联系q：1095087360
