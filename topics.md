@@ -80,6 +80,7 @@
 - [p2p](#p2p)
 - [package-manager](#package-manager)
 - [penetration-testing](#penetration-testing)
+- [pentesting](#pentesting)
 - [php](#php)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
@@ -780,6 +781,17 @@
 - [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box) - A powerful and open-source toolkit for hackers and security automation - 安全行业从业者自研开源扫描器合辑
 - [Mr-xn/Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC) - 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cm
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
+
+## pentesting 
+
+- [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
+- [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
+- [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Next generation web scanner
+- [gobysec/Goby](https://github.com/gobysec/Goby) - Attack surface mapping
+- [knownsec/pocsuite3](https://github.com/knownsec/pocsuite3) - pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team.
+- [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
+- [we1h0/SecurityManageFramwork](https://github.com/we1h0/SecurityManageFramwork) - Security Manage Framwork is a security management platform for enterprise intranet, which includes asset management, vulnerability management, account management, knowledge base management, security s
+- [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 
 ## php 
 
