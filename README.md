@@ -110,7 +110,7 @@
 - [Le0nsec/SecCrawler](https://github.com/Le0nsec/SecCrawler) - 一个方便安全研究人员获取每日安全日报的爬虫和推送程序，目前爬取范围包括先知社区、安全客、Seebug Paper、跳跳糖、奇安信攻防社区、棱角社区以及绿盟、腾讯玄武、天融信、360等实验室博客，持续更新中。
 - [google/log4jscanner](https://github.com/google/log4jscanner) - A log4j vulnerability filesystem scanner and Go package for analyzing JAR files.
 - [A-D-Team/grafanaExp](https://github.com/A-D-Team/grafanaExp) - A exploit tool for Grafana Unauthorized arbitrary file reading vulnerability (CVE-2021-43798), it can burst plugins / extract secret_key / decrypt data_source info automatic.
-- [lanyi1998/DNSlog-GO](https://github.com/lanyi1998/DNSlog-GO) - DNSLog-GO 是一款golang编写的监控 DNS 解析记录的工具，自带WEB界面
+- [lanyi1998/DNSlog-GO](https://github.com/lanyi1998/DNSlog-GO) - DNSLog-GO 是一款golang编写的监控 DNS 解析记录的工具，自带WEB界面 / DNSLog-GO is a monitoring tool written in Golang that monitors DNS resolution records. It comes with a web interface.
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - [seccome/Ehoney](https://github.com/seccome/Ehoney) - 安全、快捷、高交互、企业级的蜜罐管理系统，护网；支持多种协议蜜罐、蜜签、诱饵等功能。A safe, fast, highly interactive and enterprise level honeypot management system, supports multiple protocol honeypots, honeytokens, baits and other functions
 - [iiiusky/alicloud-tools](https://github.com/iiiusky/alicloud-tools) - 阿里云ECS、策略组辅助小工具
