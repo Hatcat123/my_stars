@@ -407,7 +407,7 @@
 - [wkunzhi/Python3-Spider](https://github.com/wkunzhi/Python3-Spider) - Python爬虫实战 - 模拟登陆各大网站 包含但不限于：滑块验证、拼多多、美团、百度、bilibili、大众点评、淘宝，如果喜欢请start ❤️
 - [NightTeam/cellular-network-proxy_docker](https://github.com/NightTeam/cellular-network-proxy_docker) - 蜂窝网络代理服务器搭建DEMO-Docker版搭建方式
 - [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
-- [miguelgrinberg/microblog](https://github.com/miguelgrinberg/microblog) - A microblogging web application written in Python and Flask that I developed as part of my Flask Mega-Tutorial series.
+- [miguelgrinberg/microblog](https://github.com/miguelgrinberg/microblog) - The microblogging application developed in my Flask Mega-Tutorial series. This version maps to the 2024 Edition of the tutorial.
 - [dyboy2017/TScan](https://github.com/dyboy2017/TScan) - TScan 提供了CMS指纹识别、端口扫描、旁站信息、信息泄漏等功能，期许在最短的时间辅助安全人员在渗透前做好充分的信息搜集
 - [chenwbyx/scripts-tools](https://github.com/chenwbyx/scripts-tools) - 
 - [sfyc23/WechatAddGroupHelper](https://github.com/sfyc23/WechatAddGroupHelper) - 微信加群助手
