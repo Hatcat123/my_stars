@@ -92,6 +92,7 @@
 
 ## Go 
 
+- [jwping/wxbot](https://github.com/jwping/wxbot) - PC微信Hook模块、Hook WeChat / 微信逆向、微信机器人、WeChatRobot
 - [GhostTroops/scan4all](https://github.com/GhostTroops/scan4all) - Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 - [akkuman/rotateproxy](https://github.com/akkuman/rotateproxy) - 利用fofa搜索socks5开放代理进行代理池轮切的工具
 - [s-rah/onionscan](https://github.com/s-rah/onionscan) - OnionScan is a free and open source tool for investigating the Dark Web.
