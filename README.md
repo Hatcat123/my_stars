@@ -284,6 +284,7 @@
 
 ## PHP 
 
+- [pandora-next/deploy](https://github.com/pandora-next/deploy) - Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!
 - [ambionics/phpggc](https://github.com/ambionics/phpggc) - PHPGGC is a library of PHP unserialize() payloads along with a tool to generate them, from command line or programmatically.
 - [lujinzhong/Live_basketball_room](https://github.com/lujinzhong/Live_basketball_room) - 跟着singwa老师做的一个高性能篮球赛况直播室，主要包含实时直播模块和多人聊天模块，采用TP5整合原生swoole拓展编写。入门swoole最佳实战
 
@@ -524,6 +525,7 @@
 
 ## Vue 
 
+- [Yanyutin753/PandoraNext-TokensTool](https://github.com/Yanyutin753/PandoraNext-TokensTool) - 支持脚本一键部署和更新pandoraNext和tokensTool双服务，实现openai账号密码直连web,也可以通过获取share_token和access_token，实现分发pool_token，查询PandoraNext余额，且方便实现接口调用PandoraNext的API并支持接入到多种开源ChatGpt网页，针对于PandoraNext最新版本管理tokens.json和config
 - [JDArmy/DSRE](https://github.com/JDArmy/DSRE) - 数据安全风险枚举框架（Data Security Risk Enumeration）
 - [momosecurity/bombus](https://github.com/momosecurity/bombus) - 合规审计平台
 - [fofapro/vulfocus](https://github.com/fofapro/vulfocus) - 🚀Vulfocus 是一个漏洞集成平台，将漏洞环境 docker 镜像，放入即可使用，开箱即用。
