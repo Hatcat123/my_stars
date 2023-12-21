@@ -147,6 +147,7 @@
 
 ## Java 
 
+- [Yanyutin753/PandoraNext-TokensTool](https://github.com/Yanyutin753/PandoraNext-TokensTool) - 支持脚本一键部署和更新pandoraNext和tokensTool双服务，实现openai账号密码直连web,也实现分发pool_token，并且接入one-api，查询PandoraNext余额，且方便实现接口调用PandoraNext的API并支持接入到多种开源ChatGpt网页，针对于PandoraNext最新版本管理tokens.json和config.json的可视化网页，每天检查ses
 - [wh1t3p1g/tabby](https://github.com/wh1t3p1g/tabby) - A CAT called tabby ( Code Analysis Tool )
 - [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) - 📚 db-tutorial 是一个数据库教程。
 - [threedr3am/learnjavabug](https://github.com/threedr3am/learnjavabug) - Java安全相关的漏洞和技术demo，原生Java、Fastjson、Jackson、Hessian2、XML反序列化漏洞利用和Spring、Dubbo、Shiro、CAS、Tomcat、RMI、Nexus等框架\中间件\功能的exploits以及Java Security Manager绕过、Dubbo-Hessian2安全加固等等实践代码。
@@ -321,7 +322,7 @@
 - [ownthink/Jiagu](https://github.com/ownthink/Jiagu) - Jiagu深度学习自然语言处理工具  知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类
 - [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 - [hakivvi/CVE-2022-29464](https://github.com/hakivvi/CVE-2022-29464) - WSO2 RCE (CVE-2022-29464) exploit and writeup.
-- [ydf0509/funboost](https://github.com/ydf0509/funboost) - pip install funboost，python全功能分布式函数调度框架,。支持python所有类型的并发模式和全球一切知名消息队列中间件，python函数加速器，框架包罗万象，一统编程思维，兼容50% python编程业务场景，适用范围广。只需要一行代码即可分布式执行python一切函数。
+- [ydf0509/funboost](https://github.com/ydf0509/funboost) - pip install funboost，python全功能分布式函数调度框架,。支持python所有类型的并发模式和全球一切知名消息队列中间件和任务框架，python函数加速器，框架包罗万象，一统编程思维，兼容50% python编程业务场景，适用范围广。只需要一行代码即可分布式执行python一切函数。
 - [yhy0/github-cve-monitor](https://github.com/yhy0/github-cve-monitor) - 实时监控github上新增的cve、自定义关键字、安全工具更新、大佬仓库监控，并多渠道推送通知
 - [UzJu/Cloud-Bucket-Leak-Detection-Tools](https://github.com/UzJu/Cloud-Bucket-Leak-Detection-Tools) - 六大云存储，泄露利用检测工具
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
@@ -525,7 +526,6 @@
 
 ## Vue 
 
-- [Yanyutin753/PandoraNext-TokensTool](https://github.com/Yanyutin753/PandoraNext-TokensTool) - 支持脚本一键部署和更新pandoraNext和tokensTool双服务，实现openai账号密码直连web,也可以通过获取share_token和access_token，实现分发pool_token，查询PandoraNext余额，且方便实现接口调用PandoraNext的API并支持接入到多种开源ChatGpt网页，针对于PandoraNext最新版本管理tokens.json和config
 - [JDArmy/DSRE](https://github.com/JDArmy/DSRE) - 数据安全风险枚举框架（Data Security Risk Enumeration）
 - [momosecurity/bombus](https://github.com/momosecurity/bombus) - 合规审计平台
 - [fofapro/vulfocus](https://github.com/fofapro/vulfocus) - 🚀Vulfocus 是一个漏洞集成平台，将漏洞环境 docker 镜像，放入即可使用，开箱即用。
