@@ -76,7 +76,7 @@
 - [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) - 
 - [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
 - [z16388/wechat_tools](https://github.com/z16388/wechat_tools) - 在一个微信工具的基础上，通过增加log的方式，获取公众号推送内容。
-- [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) - 微信HOOK、微信机器人   wxhook，数据库解密 微信公众号采集 微信公众号爬虫
+- [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) - 微信HOOK、微信机器人   wxhook，数据库解密 微信公众号采集 微信公众号爬虫，企业微信HOOK
 - [redtips/wechathook](https://github.com/redtips/wechathook) - 借助微信hook，拦截修改某些call，填充进我们的Python代码，进行微信公众号文章的爬取
 
 ## CSS 
