@@ -542,7 +542,7 @@
 
 ## others 
 
-- [Yanyutin753/PandoraNext-TokensTool](https://github.com/Yanyutin753/PandoraNext-TokensTool) - 【现支持转发copilot接口使用GPT-4，支持流式输出】脚本一键部署和更新pandoraNext和tokensTool双服务，实现openai账号密码直连web,实现通过refresh_token或session_token，自动更新分发pool_token，并接入one-api，支持转发copilot接口，查询PandoraNext余额，且方便实现接口调用PandoraNext的API并支持
+- [Yanyutin753/PandoraNext-TokensTool](https://github.com/Yanyutin753/PandoraNext-TokensTool) - 【现支持转发copilot官方和cocopilot接口使用GPT-4，支持拼车和独享，支持流式输出】脚本一键部署和更新pandoraNext和tokensTool双服务，实现openai账号密码直连web,实现通过refresh_token或session_token，自动更新分发pool_token，并接入one-api，支持转发copilot接口，查询PandoraNext余额，提供登录日志，
 - [jwping/wxbot](https://github.com/jwping/wxbot) - PC微信Hook模块、Hook WeChat / 微信逆向、微信机器人、WeChatRobot
 - [akkuman/rotateproxy](https://github.com/akkuman/rotateproxy) - 利用fofa搜索socks5开放代理进行代理池轮切的工具
 - [Clouditera/secgpt](https://github.com/Clouditera/secgpt) - secgpt网络安全大模型
