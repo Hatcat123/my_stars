@@ -513,7 +513,7 @@
 ## TypeScript 
 
 - [metlo-labs/metlo](https://github.com/metlo-labs/metlo) - Metlo is an open-source API security platform.
-- [markmap/markmap](https://github.com/markmap/markmap) - Visualize your Markdown as mindmaps with Markmap.
+- [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [PuruVJ/macos-preact](https://github.com/PuruVJ/macos-preact) - 
 - [geekape/geek-navigation](https://github.com/geekape/geek-navigation) - ❤️ 极客猿导航－独立开发者的导航站！
