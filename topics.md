@@ -197,7 +197,7 @@
 ## chatgpt 
 
 - [pandora-next/deploy](https://github.com/pandora-next/deploy) - Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!
-- [Yanyutin753/PandoraNext-TokensTool](https://github.com/Yanyutin753/PandoraNext-TokensTool) - 【更方便更安全的管理PandoraNext，更高速的使用copilot的GPT-4】通过手机端或电脑端实现在线网页自动获取refresh_token或session_token并刷新分发share_token和pool_token，并支持一键添加进one-api，支持查询token和转发copilot用量，查询PandoraNext余额。通过缓存技术更低延迟转发copilot接口，实现拼车和独享实
+- [Yanyutin753/PandoraNext-TokensTool](https://github.com/Yanyutin753/PandoraNext-TokensTool) - 【更方便更安全的管理PandoraNext，更高速的使用copilot的GPT-4】通过手机端或电脑端实现在线网页批量获取refresh_token或session_token并刷新分发share_token和pool_token，并支持一键添加进one-api，支持查询token和转发copilot用量，查询PandoraNext余额。通过缓存技术更低延迟转发copilot接口，实现拼车和独享实
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
 - [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain
 - [barretlee/cloudflare-proxy](https://github.com/barretlee/cloudflare-proxy) - Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
