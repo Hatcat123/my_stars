@@ -46,6 +46,7 @@
 
 ## C 
 
+- [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests based on MITRE's ATT&CK.
 - [tsingsee/EasyPlayer-RTSP-Win](https://github.com/tsingsee/EasyPlayer-RTSP-Win) - An free, elegant, simple, fast windows RTSP Player.EasyPlayer support RTSP(RTP over TCP/UDP),video support H.264/H.265,audio support G.711/G.726/AAC！EasyPlayer RTSP是一款免费精炼、高效、稳定的RTSP流媒体播放器，视频支持H.264/H
 - [peng-zhihui/Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) - 我的超迷你机械臂机器人项目。
@@ -92,6 +93,7 @@
 
 ## Go 
 
+- [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments
 - [jwping/wxbot](https://github.com/jwping/wxbot) - PC微信Hook模块、Hook WeChat / 微信逆向、微信机器人、WeChatRobot
 - [GhostTroops/scan4all](https://github.com/GhostTroops/scan4all) - Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 - [akkuman/rotateproxy](https://github.com/akkuman/rotateproxy) - 利用fofa搜索socks5开放代理进行代理池轮切的工具
