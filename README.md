@@ -169,6 +169,7 @@
 
 ## JavaScript 
 
+- [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese) - GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
 - [superBiuBiuMan/wechatMiniAppReverse](https://github.com/superBiuBiuMan/wechatMiniAppReverse) - 微信小程序解密并反编译
 - [lucienyida/yida](https://github.com/lucienyida/yida) - 收集全网薅羊毛脚本
 - [barretlee/cloudflare-proxy](https://github.com/barretlee/cloudflare-proxy) - Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
@@ -302,6 +303,9 @@
 
 ## Python 
 
+- [guofei9987/text_blind_watermark](https://github.com/guofei9987/text_blind_watermark) - 文本盲水印：把信息隐匿到文本中，put invisible blind watermark into a text.
+- [guofei9987/HideInfo](https://github.com/guofei9987/HideInfo) - Info Hiding Library，一些小而美的信息隐藏技术
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
 - [Clouditera/secgpt](https://github.com/Clouditera/secgpt) - secgpt网络安全大模型
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
