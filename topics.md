@@ -459,7 +459,7 @@
 
 ## kubernetes 
 
-- [cubefs/cubefs](https://github.com/cubefs/cubefs) - cloud native unstructured data store
+- [cubefs/cubefs](https://github.com/cubefs/cubefs) - cloud-native file store
 - [Metarget/metarget](https://github.com/Metarget/metarget) - Metarget is a framework providing automatic constructions of vulnerable infrastructures.
 - [neargle/my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security) - :atom: [WIP] 整理过去的分享，从零开始的Kubernetes攻防 🧐
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
