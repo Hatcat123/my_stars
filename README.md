@@ -46,6 +46,7 @@
 
 ## C 
 
+- [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests based on MITRE's ATT&CK.
 - [tsingsee/EasyPlayer-RTSP-Win](https://github.com/tsingsee/EasyPlayer-RTSP-Win) - An free, elegant, simple, fast windows RTSP Player.EasyPlayer support RTSP(RTP over TCP/UDP),video support H.264/H.265,audio support G.711/G.726/AAC！EasyPlayer RTSP是一款免费精炼、高效、稳定的RTSP流媒体播放器，视频支持H.264/H
@@ -481,7 +482,7 @@
 
 ## Rust 
 
-- [gngpp/ninja](https://github.com/gngpp/ninja) - Reverse engineered ChatGPT proxy
+- [gngpp/ninja](https://github.com/gngpp/ninja) - 🦀 Reverse engineered ChatGPT proxy
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 
 ## SCSS 
