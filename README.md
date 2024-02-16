@@ -171,6 +171,7 @@
 
 ## JavaScript 
 
+- [Hatcat123/chrome_crx_wechat_doonsec](https://github.com/Hatcat123/chrome_crx_wechat_doonsec) - 洞见公众号快速批量提交插件
 - [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese) - GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
 - [superBiuBiuMan/wechatMiniAppReverse](https://github.com/superBiuBiuMan/wechatMiniAppReverse) - 微信小程序解密并反编译
 - [lucienyida/yida](https://github.com/lucienyida/yida) - 收集全网薅羊毛脚本
@@ -305,6 +306,7 @@
 
 ## Python 
 
+- [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt) - Play ChatGPT and other LLM with Xiaomi AI Speaker
 - [MrWQ/vulnerability-paper](https://github.com/MrWQ/vulnerability-paper) - 收集的文章 https://mrwq.github.io/vulnerability-paper/
 - [guofei9987/text_blind_watermark](https://github.com/guofei9987/text_blind_watermark) - 文本盲水印：把信息隐匿到文本中，put invisible blind watermark into a text.
 - [guofei9987/HideInfo](https://github.com/guofei9987/HideInfo) - Info Hiding Library，一些小而美的信息隐藏技术
@@ -482,7 +484,7 @@
 
 ## Rust 
 
-- [gngpp/ninja](https://github.com/gngpp/ninja) - 🦀 Reverse engineered ChatGPT proxy
+- [gngpp/ninja](https://github.com/gngpp/ninja) - Reverse engineered ChatGPT proxy
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 
 ## SCSS 
