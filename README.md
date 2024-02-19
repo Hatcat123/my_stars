@@ -171,6 +171,7 @@
 
 ## JavaScript 
 
+- [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
 - [Hatcat123/chrome_crx_wechat_doonsec](https://github.com/Hatcat123/chrome_crx_wechat_doonsec) - 洞见公众号快速批量提交插件
 - [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese) - GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
 - [superBiuBiuMan/wechatMiniAppReverse](https://github.com/superBiuBiuMan/wechatMiniAppReverse) - 微信小程序解密并反编译
@@ -231,6 +232,7 @@
 
 ## Others 
 
+- [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 直播源
 - [StarCrossPortal/scalpel](https://github.com/StarCrossPortal/scalpel) - scalpel是一款命令行漏洞扫描工具，支持深度参数注入，拥有一个强大的数据解析和变异算法，可以将常见的数据格式（json, xml, form等）解析为树结构，然后根据poc中的规则，对树进行变异，包括对叶子节点和树结构 的变异。变异完成之后，将树结构还原为原始的数据格式。
 - [dongshixiaohehe/vxarticle_spider](https://github.com/dongshixiaohehe/vxarticle_spider) - 微信公众号文章采集爬虫，点赞数，评论数，阅读数，万能key，twitter爬虫，突破twitter限制，twitter数据采集，提供twitter,gzh,xhs等全量数据，联系q：1095087360
 - [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
