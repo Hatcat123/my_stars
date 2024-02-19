@@ -555,6 +555,8 @@
 
 ## others 
 
+- [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 直播源
+- [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
 - [Hatcat123/chrome_crx_wechat_doonsec](https://github.com/Hatcat123/chrome_crx_wechat_doonsec) - 洞见公众号快速批量提交插件
 - [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
 - [lal0ne/vulnerability](https://github.com/lal0ne/vulnerability) - 收集、整理、修改互联网上公开的漏洞POC
