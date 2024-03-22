@@ -565,6 +565,7 @@
 
 ## others 
 
+- [rstudio/revealjs](https://github.com/rstudio/revealjs) - R Markdown Format for reveal.js Presentations
 - [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 直播源
 - [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
 - [Hatcat123/chrome_crx_wechat_doonsec](https://github.com/Hatcat123/chrome_crx_wechat_doonsec) - 洞见公众号快速批量提交插件
