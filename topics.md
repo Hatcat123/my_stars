@@ -565,6 +565,7 @@
 
 ## others 
 
+- [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
 - [rstudio/revealjs](https://github.com/rstudio/revealjs) - R Markdown Format for reveal.js Presentations
 - [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 直播源
 - [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
