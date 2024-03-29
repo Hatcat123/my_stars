@@ -565,6 +565,8 @@
 
 ## others 
 
+- [Yanyutin753/RefreshToV1Api](https://github.com/Yanyutin753/RefreshToV1Api) - 开源不易，请给我一颗免费的星星!!! main 0.7.8 版本 无需部署其他服务，即可使用xyhelper提供的免费backend接口，并转成v1形式的api供其他第三方客户端使用。0.7.7版本 适配ninja。所有版本支持把refresh_token当key使用，转成v1形式的api，内置自动刷新access_token，动态适配使用GPTS，适配one-api等第三方服务，本项目站在巨人的
+- [yoryio/CVE-2024-20767](https://github.com/yoryio/CVE-2024-20767) - Exploit for CVE-2024-20767 - Adobe ColdFusion
 - [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
 - [rstudio/revealjs](https://github.com/rstudio/revealjs) - R Markdown Format for reveal.js Presentations
 - [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 直播源
