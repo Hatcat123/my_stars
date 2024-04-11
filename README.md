@@ -76,7 +76,7 @@
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。 A free WAF that is sufficiently simple, effective, and powerful. Utilizing industry-leading semantic engine detection technology, it opera
 - [ffffffff0x/1earn](https://github.com/ffffffff0x/1earn) - ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup
-- [Redis-Insight/RedisDesktopManager](https://github.com/Redis-Insight/RedisDesktopManager) - 
+- [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) - 
 - [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
 - [z16388/wechat_tools](https://github.com/z16388/wechat_tools) - 在一个微信工具的基础上，通过增加log的方式，获取公众号推送内容。
 - [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) - 微信HOOK、微信机器人   wxhook，数据库解密 微信公众号采集 微信公众号爬虫，企业微信HOOK
