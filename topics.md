@@ -738,7 +738,7 @@
 - [hudunkey/Red-Team-links](https://github.com/hudunkey/Red-Team-links) - 2019年红队资源链接，资源不是本人整理出来，来自互联网，因为流传的少，特意在此做个备份，做个分享。
 - [out0fmemory/qqwry.dat](https://github.com/out0fmemory/qqwry.dat) - 自动更新的纯真ip库，每天自动更新
 - [zhzyker/exphub](https://github.com/zhzyker/exphub) - Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-201
-- [Redis-Insight/RedisDesktopManager](https://github.com/Redis-Insight/RedisDesktopManager) - 
+- [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) - 
 - [ngbdf/redis-manager](https://github.com/ngbdf/redis-manager) - Redis 一站式管理平台，支持集群的监控、安装、管理、告警以及基本的数据操作
 - [eastmountyxz/NetworkSecuritySelf-study](https://github.com/eastmountyxz/NetworkSecuritySelf-study) - 这是作者的系列网络安全自学教程，主要是关于网安工具和实践操作的在线笔记，希望对大家有所帮助，学无止境，加油。
 - [chompie1337/SMBGhost_RCE_PoC](https://github.com/chompie1337/SMBGhost_RCE_PoC) - 
