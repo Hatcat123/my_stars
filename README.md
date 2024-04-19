@@ -324,7 +324,7 @@
 - [Yanyutin753/RefreshToV1Api](https://github.com/Yanyutin753/RefreshToV1Api) - 开源不易，请给我一颗免费的星星⭐ main 0.7.9 版本 支持把refresh_token当key使用，转成v1形式的api，内置自动刷新access_token，动态适配使用GPTS，适配one-api等第三方服务，本项目站在巨人的肩膀上的项目，感谢Ink-Osier大佬的PandoraToV1Api项目
 - [yoryio/CVE-2024-20767](https://github.com/yoryio/CVE-2024-20767) - Exploit for CVE-2024-20767 - Adobe ColdFusion
 - [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt) - Play ChatGPT and other LLM with Xiaomi AI Speaker
-- [MrWQ/vulnerability-paper](https://github.com/MrWQ/vulnerability-paper) - 收集的文章 https://mrwq.github.io/vulnerability-paper/
+- [MrWQ/vulnerability-paper](https://github.com/MrWQ/vulnerability-paper) - 收集的文章 https://mrwq.github.io/tools/paper/
 - [guofei9987/text_blind_watermark](https://github.com/guofei9987/text_blind_watermark) - 文本盲水印：把信息隐匿到文本中，put invisible blind watermark into a text.
 - [guofei9987/HideInfo](https://github.com/guofei9987/HideInfo) - 一些小而美的信息隐藏技术：幻影坦克、藏物于音等
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
