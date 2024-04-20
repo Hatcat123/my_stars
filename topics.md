@@ -53,6 +53,7 @@
 - [golang](#golang)
 - [hacking](#hacking)
 - [hacking-tool](#hacking-tool)
+- [hacking-tools](#hacking-tools)
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
 - [homebrew](#homebrew)
@@ -416,6 +417,10 @@
 
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
 - [lengjibo/RedTeamTools](https://github.com/lengjibo/RedTeamTools) - 记录自己编写、修改的部分工具
+
+## hacking-tools 
+
+- [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Next generation web scanner
 
 ## hacktoberfest 
 
