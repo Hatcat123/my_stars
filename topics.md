@@ -588,6 +588,7 @@
 
 ## others 
 
+- [LanQian528/chat2api](https://github.com/LanQian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format.
 - [missuo/FreeGPT35](https://github.com/missuo/FreeGPT35) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.
 - [Fenguopeng/ctf-wiki](https://github.com/Fenguopeng/ctf-wiki) - ctf-wiki
 - [Yanyutin753/RefreshToV1Api](https://github.com/Yanyutin753/RefreshToV1Api) - 开源不易，请给我一颗免费的星星⭐ main 0.7.9 版本 支持把refresh_token当key使用，转成v1形式的api，内置自动刷新access_token，动态适配使用GPTS，适配one-api等第三方服务，本项目站在巨人的肩膀上的项目，感谢Ink-Osier大佬的PandoraToV1Api项目
