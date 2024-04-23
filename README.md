@@ -242,7 +242,7 @@
 
 ## Others 
 
-- [Fenguopeng/ctf-wiki](https://github.com/Fenguopeng/ctf-wiki) - ctf-wiki
+- [Fenguopeng/ctf-guide](https://github.com/Fenguopeng/ctf-guide) - ctf-wiki
 - [0x783kb/Security-operation-book](https://github.com/0x783kb/Security-operation-book) - 一些常见的安全检测规则及事件
 - [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 直播源
 - [StarCrossPortal/scalpel](https://github.com/StarCrossPortal/scalpel) - scalpel是一款命令行漏洞扫描工具，支持深度参数注入，拥有一个强大的数据解析和变异算法，可以将常见的数据格式（json, xml, form等）解析为树结构，然后根据poc中的规则，对树进行变异，包括对叶子节点和树结构 的变异。变异完成之后，将树结构还原为原始的数据格式。
