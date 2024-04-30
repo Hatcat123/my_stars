@@ -50,7 +50,7 @@
 - [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests based on MITRE's ATT&CK.
-- [tsingsee/EasyPlayer-RTSP-Win](https://github.com/tsingsee/EasyPlayer-RTSP-Win) - An free, elegant, simple, fast windows RTSP Player.EasyPlayer support RTSP(RTP over TCP/UDP),video support H.264/H.265,audio support G.711/G.726/AAC！EasyPlayer RTSP是一款免费精炼、高效、稳定的RTSP流媒体播放器，视频支持H.264/H
+- [EasyDarwin/EasyPlayer-RTSP-Win](https://github.com/EasyDarwin/EasyPlayer-RTSP-Win) - An free, elegant, simple, fast windows RTSP Player.EasyPlayer support RTSP(RTP over TCP/UDP),video support H.264/H.265,audio support G.711/G.726/AAC！EasyPlayer RTSP是一款免费精炼、高效、稳定的RTSP流媒体播放器，视频支持H.264/H
 - [peng-zhihui/Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) - 我的超迷你机械臂机器人项目。
 - [haad/proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for 
 - [luin/wechat-export](https://github.com/luin/wechat-export) - 📃 Export WeChat chat histories to HTML files.
