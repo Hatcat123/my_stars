@@ -638,7 +638,7 @@
 - [bytedance/godlp](https://github.com/bytedance/godlp) - sensitive information protection toolkit
 - [0voice/audio_video_streaming](https://github.com/0voice/audio_video_streaming) - 音视频流媒体权威资料整理，500+份文章，论文，视频，实践项目，协议，业界大神名单。
 - [EasyDarwin/EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) - open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a si
-- [tsingsee/EasyPlayer-RTSP-Win](https://github.com/tsingsee/EasyPlayer-RTSP-Win) - An free, elegant, simple, fast windows RTSP Player.EasyPlayer support RTSP(RTP over TCP/UDP),video support H.264/H.265,audio support G.711/G.726/AAC！EasyPlayer RTSP是一款免费精炼、高效、稳定的RTSP流媒体播放器，视频支持H.264/H
+- [EasyDarwin/EasyPlayer-RTSP-Win](https://github.com/EasyDarwin/EasyPlayer-RTSP-Win) - An free, elegant, simple, fast windows RTSP Player.EasyPlayer support RTSP(RTP over TCP/UDP),video support H.264/H.265,audio support G.711/G.726/AAC！EasyPlayer RTSP是一款免费精炼、高效、稳定的RTSP流媒体播放器，视频支持H.264/H
 - [RoomaSec/RmEye](https://github.com/RoomaSec/RmEye) - 戎码之眼是一个window上的基于att&ck模型的威胁监控工具.有效检测常见的未知威胁与已知威胁.防守方的利剑
 - [TideSec/GoBypassAV](https://github.com/TideSec/GoBypassAV) - 整理了基于Go的16种API免杀测试、8种加密测试、反沙盒测试、编译混淆、加壳、资源修改等免杀技术，并搜集汇总了一些资料和工具。
 - [momosecurity/bombus](https://github.com/momosecurity/bombus) - 合规审计平台
