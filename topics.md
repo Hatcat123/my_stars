@@ -589,6 +589,7 @@
 
 ## others 
 
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 - [LanQian528/chat2api](https://github.com/LanQian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format.
 - [missuo/FreeGPT35](https://github.com/missuo/FreeGPT35) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.
 - [Fenguopeng/ctf-guide](https://github.com/Fenguopeng/ctf-guide) - ctf-wiki
