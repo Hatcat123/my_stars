@@ -270,7 +270,6 @@
 - [goto456/stopwords](https://github.com/goto456/stopwords) - 中文常用停用词表（哈工大停用词表、百度停用词表等）
 - [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
 - [Snowming04/The-Hacker-Playbook-3-Translation](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation) - 对 The Hacker Playbook 3 的翻译。
-- [j1anFen/shiro_attack](https://github.com/j1anFen/shiro_attack) - shiro反序列化漏洞综合利用,包含（回显执行命令/注入内存马）
 - [3had0w/Fuzzing-Dicts](https://github.com/3had0w/Fuzzing-Dicts) - Web Security Dictionary
 - [gobysec/Goby](https://github.com/gobysec/Goby) - Attack surface mapping
 - [heroanswer/XSS_Cheat_Sheet_2020_Edition](https://github.com/heroanswer/XSS_Cheat_Sheet_2020_Edition) - xss漏洞模糊测试payload的最佳集合 2020版
@@ -389,7 +388,6 @@
 - [houtianze/bypy](https://github.com/houtianze/bypy) - Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端
 - [mtli/HTML4Vision](https://github.com/mtli/HTML4Vision) - A simple HTML visualization tool for computer vision research :hammer_and_wrench:
 - [qianxiao996/FrameScan-GUI](https://github.com/qianxiao996/FrameScan-GUI) - FrameScan-GUI 一款python3和Pyqt编写的具有图形化界面的cms漏洞检测框架。
-- [TophantTechnology/ARL](https://github.com/TophantTechnology/ARL) - ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
 - [iswbm/pycharm-guide](https://github.com/iswbm/pycharm-guide) - PyCharm 中文指南：安装 | 破解 | 效率 | 技巧
 - [404notf0und/CVE-Flow](https://github.com/404notf0und/CVE-Flow) - CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送
 - [al0ne/Vxscan](https://github.com/al0ne/Vxscan) - python3写的综合扫描工具，主要用来存活验证，敏感文件探测(目录扫描/js泄露接口/html注释泄露)，WAF/CDN识别，端口扫描，指纹/服务识别，操作系统识别，POC扫描，SQL注入，绕过CDN，查询旁站等功能，主要用来甲方自测或乙方授权测试，请勿用来搞破坏。
