@@ -710,7 +710,6 @@
 - [besimorhino/powercat](https://github.com/besimorhino/powercat) - netshell features all in version 2 powershell
 - [iiiusky/alicloud-tools](https://github.com/iiiusky/alicloud-tools) - 阿里云ECS、策略组辅助小工具
 - [rdoix/CVE-2020-10148-Solarwinds-Orion](https://github.com/rdoix/CVE-2020-10148-Solarwinds-Orion) - 
-- [j1anFen/shiro_attack](https://github.com/j1anFen/shiro_attack) - shiro反序列化漏洞综合利用,包含（回显执行命令/注入内存马）
 - [bdamele/icmpsh](https://github.com/bdamele/icmpsh) - Simple reverse ICMP shell
 - [0xn0ne/weblogicScanner](https://github.com/0xn0ne/weblogicScanner) - weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、
 - [3had0w/Fuzzing-Dicts](https://github.com/3had0w/Fuzzing-Dicts) - Web Security Dictionary
@@ -918,7 +917,6 @@
 - [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown with Extension support.
 - [elastic/elasticsearch-py](https://github.com/elastic/elasticsearch-py) - Official Python client for Elasticsearch
 - [wgpsec/whohk](https://github.com/wgpsec/whohk) - whohk，linux下一款强大的应急响应工具  在linux下的应急响应往往需要通过繁琐的命令行来查看各个点的情况，有的时候还需要做一些格式处理，这对于linux下命令不是很熟悉的人比较不友好。本工具将linux下应急响应中常用的一些操作给集合了起来，并处理成了较为友好的格式，只需要通过一个参数就能代替繁琐复杂的命令来实现对各个点的检查。
-- [TophantTechnology/ARL](https://github.com/TophantTechnology/ARL) - ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
 - [bit4woo/python_sec](https://github.com/bit4woo/python_sec) - python安全和代码审计相关资料收集 resource collection of python security and code review
 - [al0ne/Vxscan](https://github.com/al0ne/Vxscan) - python3写的综合扫描工具，主要用来存活验证，敏感文件探测(目录扫描/js泄露接口/html注释泄露)，WAF/CDN识别，端口扫描，指纹/服务识别，操作系统识别，POC扫描，SQL注入，绕过CDN，查询旁站等功能，主要用来甲方自测或乙方授权测试，请勿用来搞破坏。
 - [knownsec/pocsuite3](https://github.com/knownsec/pocsuite3) - pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team.
