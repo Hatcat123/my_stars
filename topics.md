@@ -1000,7 +1000,7 @@
 
 - [momosecurity/rhizobia_J](https://github.com/momosecurity/rhizobia_J) - JAVA安全SDK及编码规范
 - [euphrat1ca/Security-List](https://github.com/euphrat1ca/Security-List) - If you have any good suggestions or comments during the search process, please feedback some index experience in issues. Thank you for your participation.查阅过程中，如果有什么好的意见或建议，请在Issues反馈，感谢您的参与。
-- [0x783kb/Security-operation-book](https://github.com/0x783kb/Security-operation-book) - 一些常见的安全检测规则及事件
+- [0x783kb/Security-Operation-Book](https://github.com/0x783kb/Security-Operation-Book) - 常见的黑客行为监测特征及方法，涵盖端点和流量，未包含powershell。预祝运营生活愉快！
 - [metlo-labs/metlo](https://github.com/metlo-labs/metlo) - Metlo is an open-source API security platform.
 - [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
