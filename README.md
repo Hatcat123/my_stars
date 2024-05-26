@@ -251,7 +251,7 @@
 - [euphrat1ca/Security-List](https://github.com/euphrat1ca/Security-List) - If you have any good suggestions or comments during the search process, please feedback some index experience in issues. Thank you for your participation.查阅过程中，如果有什么好的意见或建议，请在Issues反馈，感谢您的参与。
 - [NothingCw/security_w1k1](https://github.com/NothingCw/security_w1k1) - 大手子们要是使用过后，能给菜鸡弟弟在Issues反馈个用后体验，那就真的是万分感激了。你一赞，我一赞，年薪百万不停转。
 - [Fenguopeng/ctf-guide](https://github.com/Fenguopeng/ctf-guide) - ctf-wiki
-- [0x783kb/Security-operation-book](https://github.com/0x783kb/Security-operation-book) - 一些常见的安全检测规则及事件
+- [0x783kb/Security-Operation-Book](https://github.com/0x783kb/Security-Operation-Book) - 常见的黑客行为监测特征及方法，涵盖端点和流量，未包含powershell。预祝运营生活愉快！
 - [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 直播源
 - [StarCrossPortal/scalpel](https://github.com/StarCrossPortal/scalpel) - scalpel是一款命令行漏洞扫描工具，支持深度参数注入，拥有一个强大的数据解析和变异算法，可以将常见的数据格式（json, xml, form等）解析为树结构，然后根据poc中的规则，对树进行变异，包括对叶子节点和树结构 的变异。变异完成之后，将树结构还原为原始的数据格式。
 - [dongshixiaohehe/vxarticle_spider](https://github.com/dongshixiaohehe/vxarticle_spider) - 微信公众号文章采集爬虫，点赞数，评论数，阅读数，万能key，twitter爬虫，突破twitter限制，twitter数据采集，facebook数据采集  提供twitter,gzh,xhs等全量数据，联系飞机  https://t.me/dada123api
