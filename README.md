@@ -95,6 +95,7 @@
 
 ## Go 
 
+- [Valkierja/Mozi-Botnet-theWRE](https://github.com/Valkierja/Mozi-Botnet-theWRE) - mozi僵尸网络的模仿实现  a simulating implementation of mozi botNet virus
 - [tickstep/aliyunpan](https://github.com/tickstep/aliyunpan) - 阿里云盘命令行客户端，支持JavaScript插件，支持同步备份功能。
 - [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
 - [aurora-develop/aurora](https://github.com/aurora-develop/aurora) - free
@@ -553,6 +554,7 @@
 
 ## TypeScript 
 
+- [LLM-Red-Team/glm-free-api](https://github.com/LLM-Red-Team/glm-free-api) - 🚀 智谱清言 ChatGLM4大模型逆向API白嫖测试【特长：超强智能体】，支持高速流式输出、支持智能体对话、支持多轮对话、支持AI绘图、支持联网搜索、支持长文档解读、支持代码调用、支持图像解析，零配置部署，多路token支持，自动清理会话痕迹。
 - [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型逆向API白嫖测试【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、长文档解读、图像OCR、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
 - [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语
 - [metlo-labs/metlo](https://github.com/metlo-labs/metlo) - Metlo is an open-source API security platform.
