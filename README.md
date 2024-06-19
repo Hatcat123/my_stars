@@ -177,6 +177,8 @@
 
 ## JavaScript 
 
+- [x0tools/WeChatOpenDevTools](https://github.com/x0tools/WeChatOpenDevTools) - 
+- [eeeeeeeeee-code/wx-hook](https://github.com/eeeeeeeeee-code/wx-hook) - 用于存取记录以前的基址和小程序文件
 - [missuo/FreeGPT35](https://github.com/missuo/FreeGPT35) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
@@ -326,6 +328,8 @@
 
 ## Python 
 
+- [eeeeeeeeee-code/e0e1-wx](https://github.com/eeeeeeeeee-code/e0e1-wx) - 微信小程序辅助渗透-自动化
+- [JaveleyQAQ/WeChatOpenDevTools-Python](https://github.com/JaveleyQAQ/WeChatOpenDevTools-Python) - WeChatOpenDevTool 微信小程序强制开启开发者工具
 - [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVION and PaddlePaddle.
 - [kanadeblisst00/wechat_ocr](https://github.com/kanadeblisst00/wechat_ocr) - 使用Python调用微信本地ocr服务
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
