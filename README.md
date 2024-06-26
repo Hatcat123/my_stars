@@ -178,6 +178,7 @@
 
 ## JavaScript 
 
+- [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - Wiseflow is an agile information mining tool that extracts concise messages from various sources such as websites, WeChat official accounts, social platforms, etc. It automatically categorizes and upl
 - [x0tools/WeChatOpenDevTools](https://github.com/x0tools/WeChatOpenDevTools) - 
 - [eeeeeeeeee-code/wx-hook](https://github.com/eeeeeeeeee-code/wx-hook) - 用于存取记录以前的基址和小程序文件
 - [missuo/FreeGPT35](https://github.com/missuo/FreeGPT35) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.
@@ -449,7 +450,7 @@
 - [open-cmdb/cmdb](https://github.com/open-cmdb/cmdb) - CMDB 配置管理系统 资产管理系统
 - [wnma3mz/wechat_articles_spider](https://github.com/wnma3mz/wechat_articles_spider) - 微信公众号文章的爬虫
 - [k8gege/K8CScan](https://github.com/k8gege/K8CScan) - K8Ladon大型内网渗透自定义插件化扫描神器，包含信息收集、网络资产、漏洞扫描、密码爆破、漏洞利用，程序采用多线程批量扫描大型内网多个IP段C段主机，目前插件包含: C段旁注扫描、子域名扫描、Ftp密码爆破、Mysql密码爆破、Oracle密码爆破、MSSQL密码爆破、Windows/Linux系统密码爆破、存活主机扫描、端口扫描、Web信息探测、操作系统版本探测、Cisco思科设备扫描等,支持
-- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - An open-source PAM tool and alternative to CyberArk.  广受欢迎的开源堡垒机。
+- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - An open-source PAM tool alternative to CyberArk.  广受欢迎的开源堡垒机。
 - [tp4a/teleport](https://github.com/tp4a/teleport) - Teleport是一款简单易用的堡垒机系统。
 - [phith0n/realworldctf](https://github.com/phith0n/realworldctf) - My Real World CTF challenges
 - [Traeric/MonitorSystem](https://github.com/Traeric/MonitorSystem) - 堡垒机项：这是一个审计系统，记录所有通过审计系统链接远程机器的用户执行的操作
