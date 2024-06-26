@@ -318,7 +318,7 @@
 - [bit4woo/python_sec](https://github.com/bit4woo/python_sec) - python安全和代码审计相关资料收集 resource collection of python security and code review
 - [leffss/devops](https://github.com/leffss/devops) - 基于 python 3.9.13 + django 2.2.16 + channels 2.4.0 + celery 5.2.7 + ansible 2.9.14 + paramiko 2.6.0 + AdminLTE-3.0.0 实现的运维 devops 管理系统。
 - [open-cmdb/cmdb](https://github.com/open-cmdb/cmdb) - CMDB 配置管理系统 资产管理系统
-- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - An open-source PAM tool and alternative to CyberArk.  广受欢迎的开源堡垒机。
+- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - An open-source PAM tool alternative to CyberArk.  广受欢迎的开源堡垒机。
 - [pythonzm/Ops](https://github.com/pythonzm/Ops) - 基于centos6+python3.6+django2+ansible2.4+celery4.2 运维管理系统，目前实现功能：用户和用户组管理、资产管理、集成ansible2.4、简易堡垒机(主机分配支持rdp以及vnc、用户分配、文件上传下载、配置禁用命令清单、操作录像回放功能)、CI/CD（支持git仓库和svn仓库）、数据库管理（一部分）、celery任务编排、知识库及文件共享
 - [jimmy201602/webterminal](https://github.com/jimmy201602/webterminal) - ssh rdp vnc telnet sftp bastion/jump web putty xshell terminal jumpserver audit realtime monitor rz/sz 堡垒机 云桌面 linux devops sftp websocket  file management rz/sz otp 自动化运维 审计 录像 文件管理 sftp上传 实时监控 录像回放 
 
@@ -617,6 +617,7 @@
 
 ## others 
 
+- [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - Wiseflow is an agile information mining tool that extracts concise messages from various sources such as websites, WeChat official accounts, social platforms, etc. It automatically categorizes and upl
 - [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具，支持图片、评论下载，支持保存html/md/pdf/docx文件
 - [eeeeeeeeee-code/e0e1-wx](https://github.com/eeeeeeeeee-code/e0e1-wx) - 微信小程序辅助渗透-自动化
 - [JaveleyQAQ/WeChatOpenDevTools-Python](https://github.com/JaveleyQAQ/WeChatOpenDevTools-Python) - WeChatOpenDevTool 微信小程序强制开启开发者工具
@@ -967,7 +968,7 @@
 - [PyQt5/PyQt](https://github.com/PyQt5/PyQt) - PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5
 - [dataabc/weiboSpider](https://github.com/dataabc/weiboSpider) - 新浪微博爬虫，用python爬取新浪微博数据
 - [caspartse/QQ-Groups-Spider](https://github.com/caspartse/QQ-Groups-Spider) - QQ Groups Spider（QQ 群爬虫）
-- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - An open-source PAM tool and alternative to CyberArk.  广受欢迎的开源堡垒机。
+- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - An open-source PAM tool alternative to CyberArk.  广受欢迎的开源堡垒机。
 - [JoyChou93/sks](https://github.com/JoyChou93/sks) - Security Knowledge Structure(安全知识汇总)
 - [wkunzhi/Python3-Spider](https://github.com/wkunzhi/Python3-Spider) - Python爬虫实战 - 模拟登陆各大网站 包含但不限于：滑块验证、拼多多、美团、百度、bilibili、大众点评、淘宝，如果喜欢请start ❤️
 - [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
@@ -1117,7 +1118,7 @@
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
-- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - An open-source PAM tool and alternative to CyberArk.  广受欢迎的开源堡垒机。
+- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - An open-source PAM tool alternative to CyberArk.  广受欢迎的开源堡垒机。
 - [jimmy201602/webterminal](https://github.com/jimmy201602/webterminal) - ssh rdp vnc telnet sftp bastion/jump web putty xshell terminal jumpserver audit realtime monitor rz/sz 堡垒机 云桌面 linux devops sftp websocket  file management rz/sz otp 自动化运维 审计 录像 文件管理 sftp上传 实时监控 录像回放 
 
 ## testing 
