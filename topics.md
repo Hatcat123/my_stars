@@ -617,6 +617,7 @@
 
 ## others 
 
+- [Bi0x/CVE-2024-37032](https://github.com/Bi0x/CVE-2024-37032) - Path traversal in Ollama with rogue registry server
 - [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - Wiseflow is an agile information mining tool that extracts concise messages from various sources such as websites, WeChat official accounts, social platforms, etc. It automatically categorizes and upl
 - [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具，支持图片、评论下载，支持保存html/md/pdf/docx文件
 - [eeeeeeeeee-code/e0e1-wx](https://github.com/eeeeeeeeee-code/e0e1-wx) - 微信小程序辅助渗透-自动化
