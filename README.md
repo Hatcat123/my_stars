@@ -95,6 +95,7 @@
 
 ## Go 
 
+- [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
 - [Dliv3/Venom](https://github.com/Dliv3/Venom) - Venom - A Multi-hop Proxy for Penetration Testers
 - [Valkierja/Mozi-Botnet-theWRE](https://github.com/Valkierja/Mozi-Botnet-theWRE) - mozi僵尸网络的模仿实现  a simulating implementation of mozi botNet virus
