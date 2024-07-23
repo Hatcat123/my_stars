@@ -630,6 +630,7 @@
 
 ## others 
 
+- [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
 - [leitbogioro/Fuck_Aliyun](https://github.com/leitbogioro/Fuck_Aliyun) - 
 - [boy-hack/w15scan](https://github.com/boy-hack/w15scan) - 白帽子梦中扫描器
 - [Bi0x/CVE-2024-37032](https://github.com/Bi0x/CVE-2024-37032) - Path traversal in Ollama with rogue registry server
