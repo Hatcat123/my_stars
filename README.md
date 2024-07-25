@@ -6,7 +6,6 @@
 ## Contents
 
 - [Assembly](#assembly)
-- [Brainfuck](#brainfuck)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -40,10 +39,6 @@
 ## Assembly 
 
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
-
-## Brainfuck 
-
-- [kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1) - 一分钟在线定制编译 X86/64, NanoPi R2S R4S R5S R6S, 斐讯 Phicomm N1 K2P,  树莓派 Raspberry Pi, 香橙派 Orange Pi, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S 小米AX3200, 红米AC2100, 华硕ASUS, 网件NETGEAR 等主流软硬路由
 
 ## C 
 
@@ -253,9 +248,8 @@
 
 ## Others 
 
-- [boy-hack/w15scan](https://github.com/boy-hack/w15scan) - 白帽子梦中扫描器
 - [github/advisory-database](https://github.com/github/advisory-database) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
-- [wy876/POC](https://github.com/wy876/POC) - 收集整理漏洞EXp/POC,大部分漏洞来源网络，目前收集整理了700多个poc/exp，长期更新。
+- [wy876/POC](https://github.com/wy876/POC) - 收集整理漏洞EXp/POC,大部分漏洞来源网络，目前收集整理了800多个poc/exp，长期更新。
 - [euphrat1ca/Security-List](https://github.com/euphrat1ca/Security-List) - If you have any good suggestions or comments during the search process, please feedback some index experience in issues. Thank you for your participation.查阅过程中，如果有什么好的意见或建议，请在Issues反馈，感谢您的参与。
 - [NothingCw/security_w1k1](https://github.com/NothingCw/security_w1k1) - 大手子们要是使用过后，能给菜鸡弟弟在Issues反馈个用后体验，那就真的是万分感激了。你一赞，我一赞，年薪百万不停转。
 - [Fenguopeng/ctf-guide](https://github.com/Fenguopeng/ctf-guide) - ctf-wiki
@@ -340,7 +334,7 @@
 - [JaveleyQAQ/WeChatOpenDevTools-Python](https://github.com/JaveleyQAQ/WeChatOpenDevTools-Python) - WeChatOpenDevTool 微信小程序强制开启开发者工具
 - [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVION and PaddlePaddle. （将PaddleOCR模型做了转换，采用ONNXRuntime推理，速度很快）
 - [kanadeblisst00/wechat_ocr](https://github.com/kanadeblisst00/wechat_ocr) - 使用Python调用微信本地ocr服务
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate, Groq (100+ LLMs)
 - [lanqian528/chat2api](https://github.com/lanqian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format.
 - [GavinGoo/pandora-web](https://github.com/GavinGoo/pandora-web) - 复活原潘多拉，使其作为能使用OAI前端代理+自定义API的Web面板
 - [Yanyutin753/RefreshToV1Api](https://github.com/Yanyutin753/RefreshToV1Api) - 开源不易，请给我一颗免费的星星⭐ main 0.7.9 版本 支持把refresh_token当key使用，转成v1形式的api，内置自动刷新access_token，动态适配使用GPTS，GPTO，适配one-api等第三方服务，本项目站在巨人的肩膀上的项目，感谢Ink-Osier大佬的PandoraToV1Api项目
@@ -534,6 +528,7 @@
 - [fkie-cad/nvd-json-data-feeds](https://github.com/fkie-cad/nvd-json-data-feeds) - Community reconstruction of the legacy JSON NVD Data Feeds. This project uses and redistributes data from the NVD API but is neither endorsed nor certified by the NVD.
 - [enomothem/Whoamifuck](https://github.com/enomothem/Whoamifuck) - 用于Linux应急响应，快速排查异常用户登录情况和入侵信息排查，准确定位溯源时间线，高效辅助还原攻击链。
 - [tom-snow/wechat-windows-versions](https://github.com/tom-snow/wechat-windows-versions) - 保存微信历史版本
+- [kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1) - 一分钟在线定制编译 X86/64, NanoPi R2S R4S R5S R6S, 斐讯 Phicomm N1 K2P,  树莓派 Raspberry Pi, 香橙派 Orange Pi, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S 小米AX3200, 红米AC2100, 华硕ASUS, 网件NETGEAR 等主流软硬路由
 - [neargle/my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security) - :atom: [WIP] 整理过去的分享，从零开始的Kubernetes攻防 🧐
 - [docker-easyconnect/docker-easyconnect](https://github.com/docker-easyconnect/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
 - [v2fly/fhs-install-v2ray](https://github.com/v2fly/fhs-install-v2ray) - Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd
