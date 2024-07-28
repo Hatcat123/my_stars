@@ -571,7 +571,7 @@
 - [LLM-Red-Team/step-free-api](https://github.com/LLM-Red-Team/step-free-api) - 🚀 跃问YueWen 多模态大模型逆向API白嫖测试【特长：超强多模态】，支持高速流式输出、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
 - [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
 - [idootop/mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
-- [LLM-Red-Team/glm-free-api](https://github.com/LLM-Red-Team/glm-free-api) - 🚀 智谱清言 ChatGLM4大模型逆向API白嫖测试【特长：超强智能体】，支持高速流式输出、支持智能体对话、支持多轮对话、支持AI绘图、支持联网搜索、支持长文档解读、支持代码调用、支持图像解析，零配置部署，多路token支持，自动清理会话痕迹。
+- [LLM-Red-Team/glm-free-api](https://github.com/LLM-Red-Team/glm-free-api) - 🚀 智谱清言 ChatGLM4大模型逆向API白嫖测试【特长：超强智能体】，支持高速流式输出、支持智能体对话、支持多轮对话、支持视频生成、支持AI绘图、支持联网搜索、支持长文档解读、支持代码调用、支持图像解析，零配置部署，多路token支持，自动清理会话痕迹。
 - [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型逆向API白嫖测试【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、长文档解读、图像OCR、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
 - [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
 - [metlo-labs/metlo](https://github.com/metlo-labs/metlo) - Metlo is an open-source API security platform.
