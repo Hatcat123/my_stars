@@ -282,7 +282,7 @@
 ## cybersecurity 
 
 - [metlo-labs/metlo](https://github.com/metlo-labs/metlo) - Metlo is an open-source API security platform.
-- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your websites from attacks and exploits.
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your web services from attacks and exploits.
 - [satan1a/TheRoadOfSO](https://github.com/satan1a/TheRoadOfSO) - 学习安全运营的记录 | The knowledge base of security operation
 - [xiecat/goblin](https://github.com/xiecat/goblin) - 一款适用于红蓝对抗中的仿真钓鱼系统
 - [FeeiCN/Security-PPT](https://github.com/FeeiCN/Security-PPT) - Security-related Slide Presentation & Security Research Report（大安全各领域各公司各会议分享的PPT以及各类安全研究报告）
@@ -631,6 +631,7 @@
 
 ## others 
 
+- [WeChatAPIs/WeChatApi](https://github.com/WeChatAPIs/WeChatApi) - WeChatApi、wechat api、微信3.9.10、微信HOOK、微信机器人、wechathook、微信API、微信公众号采集、微信公众号爬虫、微信数据库
 - [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - 自动签到、自动注册、订阅聚合及爬取脚本等
 - [2044145178/xhs](https://github.com/2044145178/xhs) - 小红书接口，爬虫用
 - [ShilongLee/Crawler](https://github.com/ShilongLee/Crawler) - 抖音(a_bogus最新版)、快手、哔哩哔哩、小红书、淘宝、京东、微博平台帖子、评论、搜索、用户作品高性能爬虫服务器。docker一键快速部署。
@@ -654,7 +655,7 @@
 - [az0ne/Permeable](https://github.com/az0ne/Permeable) - 渗透资料
 - [fkie-cad/nvd-json-data-feeds](https://github.com/fkie-cad/nvd-json-data-feeds) - Community reconstruction of the legacy JSON NVD Data Feeds. This project uses and redistributes data from the NVD API but is neither endorsed nor certified by the NVD.
 - [github/advisory-database](https://github.com/github/advisory-database) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
-- [wy876/POC](https://github.com/wy876/POC) - 收集整理漏洞EXp/POC,大部分漏洞来源网络，目前收集整理了800多个poc/exp，长期更新。
+- [wy876/POC](https://github.com/wy876/POC) - 收集整理漏洞EXP/POC,大部分漏洞来源网络，目前收集整理了900多个poc/exp，长期更新。
 - [NothingCw/security_w1k1](https://github.com/NothingCw/security_w1k1) - 大手子们要是使用过后，能给菜鸡弟弟在Issues反馈个用后体验，那就真的是万分感激了。你一赞，我一赞，年薪百万不停转。
 - [lanqian528/chat2api](https://github.com/lanqian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format.
 - [missuo/FreeGPT35](https://github.com/missuo/FreeGPT35) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.
@@ -1053,7 +1054,7 @@
 - [metlo-labs/metlo](https://github.com/metlo-labs/metlo) - Metlo is an open-source API security platform.
 - [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
-- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your websites from attacks and exploits.
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your web services from attacks and exploits.
 - [xiecat/goblin](https://github.com/xiecat/goblin) - 一款适用于红蓝对抗中的仿真钓鱼系统
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
 - [lcvvvv/kscan](https://github.com/lcvvvv/kscan) - Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。
@@ -1089,7 +1090,7 @@
 ## self-hosted 
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your websites from attacks and exploits.
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your web services from attacks and exploits.
 
 ## server 
 
