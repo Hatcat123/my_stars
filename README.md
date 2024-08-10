@@ -186,7 +186,6 @@
 
 - [WeChatAPIs/WeChatApi](https://github.com/WeChatAPIs/WeChatApi) - WeChatApi、wechat api、微信3.9.10、微信HOOK、微信机器人、wechathook、微信API、微信公众号采集、微信公众号爬虫、微信数据库
 - [2044145178/xhs](https://github.com/2044145178/xhs) - 小红书接口，爬虫用
-- [ShilongLee/Crawler](https://github.com/ShilongLee/Crawler) - 抖音(a_bogus最新版)、快手、哔哩哔哩、小红书、淘宝、京东、微博平台帖子、评论、搜索、用户作品高性能爬虫服务器。docker一键快速部署。
 - [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - Wiseflow is an agile information mining tool that extracts concise messages from various sources such as websites, WeChat official accounts, social platforms, etc. It automatically categorizes and upl
 - [x0tools/WeChatOpenDevTools](https://github.com/x0tools/WeChatOpenDevTools) - 
 - [eeeeeeeeee-code/wx-hook](https://github.com/eeeeeeeeee-code/wx-hook) - 用于存取记录以前的基址和小程序文件
@@ -339,14 +338,16 @@
 
 ## Python 
 
+- [THUDM/CodeGeeX4](https://github.com/THUDM/CodeGeeX4) - CodeGeeX4-ALL-9B, a versatile model for all AI software development scenarios, including code completion, code interpreter, web search, function calling, repository-level Q&A and much more.
 - [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - 自动签到、自动注册、订阅聚合及爬取脚本等
+- [ShilongLee/Crawler](https://github.com/ShilongLee/Crawler) - 抖音(a_bogus最新版)、快手、哔哩哔哩、小红书、淘宝、京东、微博平台帖子、评论、搜索、用户作品高性能爬虫服务器。docker一键快速部署。
 - [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫
 - [Bi0x/CVE-2024-37032](https://github.com/Bi0x/CVE-2024-37032) - Path traversal in Ollama with rogue registry server
 - [eeeeeeeeee-code/e0e1-wx](https://github.com/eeeeeeeeee-code/e0e1-wx) - 微信小程序辅助渗透-自动化
 - [JaveleyQAQ/WeChatOpenDevTools-Python](https://github.com/JaveleyQAQ/WeChatOpenDevTools-Python) - WeChatOpenDevTool 微信小程序强制开启开发者工具
 - [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVION and PaddlePaddle. （将PaddleOCR模型做了转换，采用ONNXRuntime推理，速度很快）
 - [kanadeblisst00/wechat_ocr](https://github.com/kanadeblisst00/wechat_ocr) - 使用Python调用微信本地ocr服务
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate, Groq (100+ LLMs)
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - LLM Proxy (Gateway) to call 100+ LLM APIs using the OpenAI format - Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq
 - [lanqian528/chat2api](https://github.com/lanqian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format.
 - [GavinGoo/pandora-web](https://github.com/GavinGoo/pandora-web) - 复活原潘多拉，使其作为能使用OAI前端代理+自定义API的Web面板
 - [Yanyutin753/RefreshToV1Api](https://github.com/Yanyutin753/RefreshToV1Api) - 开源不易，请给我一颗免费的星星⭐ main 0.7.9 版本 支持把refresh_token当key使用，转成v1形式的api，内置自动刷新access_token，动态适配使用GPTS，GPTO，适配one-api等第三方服务，本项目站在巨人的肩膀上的项目，感谢Ink-Osier大佬的PandoraToV1Api项目
