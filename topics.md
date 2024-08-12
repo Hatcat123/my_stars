@@ -633,6 +633,7 @@
 
 ## others 
 
+- [gojue/muou](https://github.com/gojue/muou) - 网络包测试工具
 - [THUDM/CodeGeeX4](https://github.com/THUDM/CodeGeeX4) - CodeGeeX4-ALL-9B, a versatile model for all AI software development scenarios, including code completion, code interpreter, web search, function calling, repository-level Q&A and much more.
 - [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips & tricks
 - [hackerschoice/segfault](https://github.com/hackerschoice/segfault) - 
@@ -899,7 +900,7 @@
 - [sph116/zhongxin_search](https://github.com/sph116/zhongxin_search) - 中国新闻网爬虫（全站增量爬虫，可用时间至2019.7）
 - [Hatcat123/ECommerceCrawlers](https://github.com/Hatcat123/ECommerceCrawlers) - 多种网站、电商数据爬虫。包含：淘宝商品、大众点评、百度贴吧、豆瓣电影、阿里任务、包图网、全景网、豆瓣音乐、闲鱼
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
-- [Alivon/Panda-Learning](https://github.com/Alivon/Panda-Learning) - 已终止该项目
+- [WenhaoDaiCN/Panda-Learning](https://github.com/WenhaoDaiCN/Panda-Learning) - 已终止该项目
 - [HELL-TO-HEAVEN/KNN_recognize_captcha](https://github.com/HELL-TO-HEAVEN/KNN_recognize_captcha) - 大三上学期学了机器学习之后，发现对于orc来说已经有tesseract的存在(也有python版的tesserocr库)，但是利用机器学习算法手动进行一次实践的话更能激励自己。。于是就有了这次的小项目，knn识别验证码图片
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [ahangchen/green](https://github.com/ahangchen/green) - 除了Streak，我们还能做什么
