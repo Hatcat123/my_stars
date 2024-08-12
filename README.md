@@ -257,6 +257,7 @@
 
 ## Others 
 
+- [gojue/muou](https://github.com/gojue/muou) - 网络包测试工具
 - [github/advisory-database](https://github.com/github/advisory-database) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
 - [wy876/POC](https://github.com/wy876/POC) - 收集整理漏洞EXP/POC,大部分漏洞来源网络，目前收集整理了900多个poc/exp，长期更新。
 - [euphrat1ca/Security-List](https://github.com/euphrat1ca/Security-List) - If you have any good suggestions or comments during the search process, please feedback some index experience in issues. Thank you for your participation.查阅过程中，如果有什么好的意见或建议，请在Issues反馈，感谢您的参与。
@@ -314,7 +315,7 @@
 - [hannoch/scaner](https://github.com/hannoch/scaner) - 扫描器是来自GitHub平台的开源扫描器的集合，包括子域枚举、数据库漏洞扫描器、弱密码或信息泄漏扫描器、端口扫描器、指纹扫描器以及其他大规模扫描仪、模块扫描器等。对于其他著名的扫描工具，如：awvs、nmap，w3af将不包含在集合范围内。
 - [qboy0000/honeypotcollection](https://github.com/qboy0000/honeypotcollection) - 蜜罐集合
 - [rebeyond/Behinder](https://github.com/rebeyond/Behinder) - “冰蝎”动态二进制加密网站管理客户端
-- [Alivon/Panda-Learning](https://github.com/Alivon/Panda-Learning) - 已终止该项目
+- [WenhaoDaiCN/Panda-Learning](https://github.com/WenhaoDaiCN/Panda-Learning) - 已终止该项目
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [ccyyycy/ycy](https://github.com/ccyyycy/ycy) - "Hello YCY" Programming Competition
 - [Hatcat123/ChallengeCup](https://github.com/Hatcat123/ChallengeCup) - Challenge Cup
