@@ -530,6 +530,7 @@
 
 ## Rust 
 
+- [LibNyanpasu/clash-nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω&lt; )⌒☆​
 - [0x676e67/ninja](https://github.com/0x676e67/ninja) - Reverse engineered ChatGPT proxy
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 
@@ -579,6 +580,7 @@
 
 ## TypeScript 
 
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [LLM-Red-Team/hailuo-free-api](https://github.com/LLM-Red-Team/hailuo-free-api) - 🚀 海螺AI大模型逆向API白嫖测试【特长：超自然语音】，支持高速流式输出、语音合成、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
 - [LLM-Red-Team/deepseek-free-api](https://github.com/LLM-Red-Team/deepseek-free-api) - 🚀 DeepSeek-V2大模型逆向API白嫖测试【特长：GPT4平替】，支持高速流式输出、多轮对话，零配置部署，多路token支持。
