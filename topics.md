@@ -547,7 +547,7 @@
 - [LLM-Red-Team/qwen-free-api](https://github.com/LLM-Red-Team/qwen-free-api) - 🚀 阿里通义千问2.5大模型逆向API白嫖测试【特长：六边形战士】，支持高速流式输出、无水印AI绘图、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
 - [LLM-Red-Team/step-free-api](https://github.com/LLM-Red-Team/step-free-api) - 🚀 跃问YueWen 多模态大模型逆向API白嫖测试【特长：超强多模态】，支持高速流式输出、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
 - [LLM-Red-Team/glm-free-api](https://github.com/LLM-Red-Team/glm-free-api) - 🚀 智谱清言 ChatGLM4大模型逆向API白嫖测试【特长：超强智能体】，支持高速流式输出、支持智能体对话、支持多轮对话、支持视频生成、支持AI绘图、支持联网搜索、支持长文档解读、支持代码调用、支持图像解析，零配置部署，多路token支持，自动清理会话痕迹。
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - LLM Proxy to call 100+ LLM APIs using the OpenAI format - Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server to call 100+ LLM APIs using the OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型逆向API白嫖测试【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、长文档解读、图像OCR、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
 - [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
 - [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Ll
@@ -647,7 +647,7 @@
 - [hackerschoice/segfault](https://github.com/hackerschoice/segfault) - 
 - [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Manage and switch between multiple proxies quickly & easily.
 - [MoRan23/GZCTF-Auto](https://github.com/MoRan23/GZCTF-Auto) - GZCTF的一键部署脚本，目前支持单 docker 和 docker+k3s 部署。
-- [WeChatAPIs/WeChatApi](https://github.com/WeChatAPIs/WeChatApi) - WeChatApi、wechat api、微信3.9.10、微信HOOK、微信机器人、wechathook、微信API、微信公众号采集、微信公众号爬虫、微信数据库
+- [WeChatAPIs/WeChatApi](https://github.com/WeChatAPIs/WeChatApi) - WeChatApi、wechat api、微信3.9.11、微信3.9.10、微信HOOK、微信机器人、wechathook、微信API、微信公众号采集、微信公众号爬虫、微信数据库
 - [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - 自动签到、自动注册、订阅聚合及爬取脚本等
 - [2044145178/xhs](https://github.com/2044145178/xhs) - 小红书接口，爬虫用
 - [ShilongLee/Crawler](https://github.com/ShilongLee/Crawler) - 抖音(a_bogus最新版)、快手、哔哩哔哩、小红书、淘宝、京东、微博平台帖子、评论、搜索、用户作品高性能爬虫服务器。docker一键快速部署。
@@ -987,7 +987,7 @@
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [volatilityfoundation/volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility 3.0 development
 - [mher/flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery distributed task queue
-- [ydf0509/funboost](https://github.com/ydf0509/funboost) - pip install funboost，python全功能分布式函数调度框架,。支持python所有类型的并发模式和一切知名消息队列中间件，支持如 celery dramatiq等框架整体作为funboost中间件，python函数加速器，框架包罗万象，用户能想到的控制功能全都有。一统编程思维，兼容50% python业务场景，适用范围广。只需要一行代码即可分布式执行python一切函数，99%
+- [ydf0509/funboost](https://github.com/ydf0509/funboost) - pip install funboost，python全功能分布式函数调度框架,funboost的功能是全面性重量级，用户能想得到的功能99%全都有;funboost的使用方式是轻量级，只有@boost一行代码需要学习。。支持python所有类型的并发模式和一切知名消息队列中间件，支持如 celery dramatiq等框架整体作为funboost中间件，python函数加速器，框架包罗万象，用户
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown with Extension support.
 - [elastic/elasticsearch-py](https://github.com/elastic/elasticsearch-py) - Official Python client for Elasticsearch
@@ -1139,7 +1139,7 @@
 
 ## sqlite 
 
-- [ydf0509/funboost](https://github.com/ydf0509/funboost) - pip install funboost，python全功能分布式函数调度框架,。支持python所有类型的并发模式和一切知名消息队列中间件，支持如 celery dramatiq等框架整体作为funboost中间件，python函数加速器，框架包罗万象，用户能想到的控制功能全都有。一统编程思维，兼容50% python业务场景，适用范围广。只需要一行代码即可分布式执行python一切函数，99%
+- [ydf0509/funboost](https://github.com/ydf0509/funboost) - pip install funboost，python全功能分布式函数调度框架,funboost的功能是全面性重量级，用户能想得到的功能99%全都有;funboost的使用方式是轻量级，只有@boost一行代码需要学习。。支持python所有类型的并发模式和一切知名消息队列中间件，支持如 celery dramatiq等框架整体作为funboost中间件，python函数加速器，框架包罗万象，用户
 
 ## svelte 
 
