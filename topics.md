@@ -651,7 +651,7 @@
 
 ## others 
 
-- [thinkoaa/Dlam](https://github.com/thinkoaa/Dlam) - 本工具可从hunter、quake、fofa等网络空间测绘平台收集探测互联网IP，检测其中可使用的IP，并通过配置文件中的端口映射关系，把本地端口映射到互联网IP指定的端口，以便通过互联网IP访问本地端口服务
+- [thinkoaa/Dlam](https://github.com/thinkoaa/Dlam) - 反连助手，本工具可从hunter、quake、fofa等网络空间测绘平台，收集、探测互联网IP，并通过配置文件中的端口映射关系，把本地端口映射到互联网IP指定的端口！
 - [jgamblin/Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code) - Leaked Mirai Source Code for Research/IoC Development Purposes
 - [gojue/muou](https://github.com/gojue/muou) - 网络包测试工具
 - [THUDM/CodeGeeX4](https://github.com/THUDM/CodeGeeX4) - CodeGeeX4-ALL-9B, a versatile model for all AI software development scenarios, including code completion, code interpreter, web search, function calling, repository-level Q&A and much more.
