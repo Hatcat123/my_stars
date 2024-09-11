@@ -97,7 +97,7 @@
 
 ## Go 
 
-- [thinkoaa/Dlam](https://github.com/thinkoaa/Dlam) - 本工具可从hunter、quake、fofa等网络空间测绘平台收集探测互联网IP，检测其中可使用的IP，并通过配置文件中的端口映射关系，把本地端口映射到互联网IP指定的端口，以便通过互联网IP访问本地端口服务
+- [thinkoaa/Dlam](https://github.com/thinkoaa/Dlam) - 反连助手，本工具可从hunter、quake、fofa等网络空间测绘平台，收集、探测互联网IP，并通过配置文件中的端口映射关系，把本地端口映射到互联网IP指定的端口！
 - [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
 - [Dliv3/Venom](https://github.com/Dliv3/Venom) - Venom - A Multi-hop Proxy for Penetration Testers
