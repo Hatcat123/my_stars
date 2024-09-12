@@ -651,7 +651,7 @@
 
 ## others 
 
-- [thinkoaa/Dlam](https://github.com/thinkoaa/Dlam) - 反连助手，本工具可从hunter、quake、fofa等网络空间测绘平台，收集、探测互联网IP，并通过配置文件中的端口映射关系，把本地端口映射到互联网IP指定的端口！
+- [thinkoaa/Dlam](https://github.com/thinkoaa/Dlam) - 反连助手：发现互联网IP、反弹shell，本工具可从hunter、quake、fofa等网络空间测绘平台，收集、探测互联网IP，并通过配置文件中的端口映射关系，把本地端口映射到互联网IP指定的端口！
 - [jgamblin/Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code) - Leaked Mirai Source Code for Research/IoC Development Purposes
 - [gojue/muou](https://github.com/gojue/muou) - 网络包测试工具
 - [THUDM/CodeGeeX4](https://github.com/THUDM/CodeGeeX4) - CodeGeeX4-ALL-9B, a versatile model for all AI software development scenarios, including code completion, code interpreter, web search, function calling, repository-level Q&A and much more.
@@ -827,7 +827,7 @@
 - [iswbm/pycharm-guide](https://github.com/iswbm/pycharm-guide) - PyCharm 中文指南：安装 | 破解 | 效率 | 技巧
 - [BeichenDream/Godzilla](https://github.com/BeichenDream/Godzilla) - 哥斯拉
 - [chaitin/rad](https://github.com/chaitin/rad) - 
-- [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy) - 搭建 SS/SSR/V2Ray/Trojan/Socks5 透明代理的 Shell 脚本
+- [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy) - ss/v2ray/xray/trojan/hysteria/naive/socks5 透明代理
 - [404notf0und/Security-Data-Analysis-and-Visualization](https://github.com/404notf0und/Security-Data-Analysis-and-Visualization) - 2018-2020青年安全圈-活跃技术博主/博客
 - [404notf0und/CVE-Flow](https://github.com/404notf0und/CVE-Flow) - CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送
 - [BrainLyh/PSCrawler](https://github.com/BrainLyh/PSCrawler) - Web Crawler by Phantom&Selenium
