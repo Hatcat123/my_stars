@@ -671,6 +671,7 @@
 
 ## others 
 
+- [PeterGabaldon/CVE-2024-7479_CVE-2024-7481](https://github.com/PeterGabaldon/CVE-2024-7479_CVE-2024-7481) - TeamViewer User to Kernel Elevation of Privilege PoC. CVE-2024-7479 and CVE-2024-7481. ZDI-24-1289 and ZDI-24-1290. TV-2024-1006.
 - [Ascotbe/Medusa](https://github.com/Ascotbe/Medusa) - :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中
 - [SkewwG/henggeFish](https://github.com/SkewwG/henggeFish) - 自动化批量发送钓鱼邮件（横戈安全团队出品）
 - [zjk2017/ArcadiaScriptPublic](https://github.com/zjk2017/ArcadiaScriptPublic) - 青龙脚本库& Issues接投稿 天瑞地安|移动云盘|爱奇艺|奇瑞|金山小程序打卡|雪花|节卡|厚工坊|屈臣氏|掌上瓯海积分|上啥班|永辉|丽影云街|杜蕾斯会员中心|一点万象|所有女生|途虎|沪碳行签到|钉钉ai签到领算粒|哪吒汽车|新战马能量星球|pp停车|桃色|江铃智行|smart+|统一不助力|活力伊利库存|沪上阿姨|华润通|商战|上海宝山|叮当快药py310|品赞代理|爷爷不泡茶|青碳行|
