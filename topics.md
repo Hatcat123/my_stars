@@ -671,6 +671,7 @@
 
 ## others 
 
+- [THUDM/GLM-4](https://github.com/THUDM/GLM-4) - GLM-4 series: Open Multilingual Multimodal Chat LMs | 开源多语言多模态对话模型
 - [PeterGabaldon/CVE-2024-7479_CVE-2024-7481](https://github.com/PeterGabaldon/CVE-2024-7479_CVE-2024-7481) - TeamViewer User to Kernel Elevation of Privilege PoC. CVE-2024-7479 and CVE-2024-7481. ZDI-24-1289 and ZDI-24-1290. TV-2024-1006.
 - [Ascotbe/Medusa](https://github.com/Ascotbe/Medusa) - :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中
 - [SkewwG/henggeFish](https://github.com/SkewwG/henggeFish) - 自动化批量发送钓鱼邮件（横戈安全团队出品）
@@ -688,7 +689,7 @@
 - [WeChatAPIs/WeChatApi](https://github.com/WeChatAPIs/WeChatApi) - WeChatApi、wechat api、微信3.9.11、微信3.9.10、微信HOOK、微信机器人、wechathook、微信API、微信公众号采集、微信公众号爬虫、微信数据库
 - [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
 - [2044145178/xhs](https://github.com/2044145178/xhs) - 小红书接口，爬虫用
-- [ShilongLee/Crawler](https://github.com/ShilongLee/Crawler) - 抖音爬虫(a_bogus最新版)、快手、哔哩哔哩、小红书、淘宝、京东、微博等平台爬虫api接口服务器。docker一键快速部署。
+- [ShilongLee/Crawler](https://github.com/ShilongLee/Crawler) - 抖音爬虫(a_bogus最新版)、快手、哔哩哔哩、小红书、淘宝、京东、微博等平台爬虫开源api接口服务器。docker一键快速部署。
 - [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
 - [R4gd0ll/LazyAnFuZai](https://github.com/R4gd0ll/LazyAnFuZai) - 安服吗喽化工具
 - [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
