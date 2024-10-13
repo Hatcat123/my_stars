@@ -908,7 +908,6 @@
 - [iceyhexman/onlinetools](https://github.com/iceyhexman/onlinetools) - 在线cms识别|信息泄露|工控|系统|物联网安全|cms漏洞扫描|nmap端口扫描|子域名获取|待续..
 - [vulhub/vulhub-ui](https://github.com/vulhub/vulhub-ui) - [WIP] a simple UI for Vulhub
 - [wnma3mz/wechat_articles_spider](https://github.com/wnma3mz/wechat_articles_spider) - 微信公众号文章的爬虫
-- [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 - [kiks7/rusty_joomla_rce](https://github.com/kiks7/rusty_joomla_rce) - Rusty Joomla RCE Exploit
 - [z16388/wechat_tools](https://github.com/z16388/wechat_tools) - 在一个微信工具的基础上，通过增加log的方式，获取公众号推送内容。
 - [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) - 微信HOOK、微信机器人   wxhook，数据库解密 微信公众号采集 微信公众号爬虫，企业微信HOOK
