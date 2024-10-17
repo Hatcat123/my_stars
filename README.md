@@ -343,6 +343,7 @@
 
 ## Python 
 
+- [Marven11/EtherGhost](https://github.com/Marven11/EtherGhost) - 新一代Webshell管理器，兼容蚁剑与冰蝎的PHP webshell
 - [THUDM/GLM-4](https://github.com/THUDM/GLM-4) - GLM-4 series: Open Multilingual Multimodal Chat LMs | 开源多语言多模态对话模型
 - [Ascotbe/Medusa](https://github.com/Ascotbe/Medusa) - :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中
 - [nomic-ai/nomic](https://github.com/nomic-ai/nomic) - Interact, analyze and structure massive text, image, embedding, audio and video datasets
