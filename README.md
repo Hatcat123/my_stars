@@ -261,6 +261,7 @@
 
 ## Others 
 
+- [datawhalechina/so-large-lm](https://github.com/datawhalechina/so-large-lm) - 大模型基础: 一文了解大模型基础知识
 - [yangliukk/FindToDeskPass](https://github.com/yangliukk/FindToDeskPass) - 通过Dump内存读取ToDesk设备代码、连接密码
 - [milu001/sundeskQ](https://github.com/milu001/sundeskQ) - 向日葵密码提取、todesk密码提取，ID、临时密码，安全密码读取工具
 - [gojue/muou](https://github.com/gojue/muou) - 网络包测试工具
@@ -270,7 +271,6 @@
 - [NothingCw/security_w1k1](https://github.com/NothingCw/security_w1k1) - 大手子们要是使用过后，能给菜鸡弟弟在Issues反馈个用后体验，那就真的是万分感激了。你一赞，我一赞，年薪百万不停转。
 - [Fenguopeng/ctf-guide](https://github.com/Fenguopeng/ctf-guide) - ctf-wiki
 - [0x783kb/Security-Operation-Book](https://github.com/0x783kb/Security-Operation-Book) - 常见的攻击行为监测特征及方法，涵盖端点和流量，未包含PowerShell和Sysmon。预祝运营生活愉快！
-- [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 直播源
 - [StarCrossPortal/scalpel](https://github.com/StarCrossPortal/scalpel) - scalpel是一款命令行漏洞扫描工具，支持深度参数注入，拥有一个强大的数据解析和变异算法，可以将常见的数据格式（json, xml, form等）解析为树结构，然后根据poc中的规则，对树进行变异，包括对叶子节点和树结构 的变异。变异完成之后，将树结构还原为原始的数据格式。
 - [dongshixiaohehe/vxarticle_spider](https://github.com/dongshixiaohehe/vxarticle_spider) - 微信公众号文章采集爬虫，点赞数，评论数，阅读数，万能key，twitter爬虫，突破twitter限制，twitter数据采集，facebook数据采集  提供twitter,gzh,xhs等全量数据，联系飞机  https://t.me/dada123api   q:1095087360
 - [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
@@ -556,6 +556,7 @@
 - [leitbogioro/Fuck_Aliyun](https://github.com/leitbogioro/Fuck_Aliyun) - 
 - [fkie-cad/nvd-json-data-feeds](https://github.com/fkie-cad/nvd-json-data-feeds) - Community reconstruction of the legacy JSON NVD Data Feeds. This project uses and redistributes data from the NVD API but is neither endorsed nor certified by the NVD.
 - [enomothem/Whoamifuck](https://github.com/enomothem/Whoamifuck) - 用于Linux应急响应，快速排查异常用户登录情况和入侵信息排查，准确定位溯源时间线，高效辅助还原攻击链。
+- [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 直播源
 - [tom-snow/wechat-windows-versions](https://github.com/tom-snow/wechat-windows-versions) - 保存微信历史版本
 - [kiddin9/Kwrt](https://github.com/kiddin9/Kwrt) - 一分钟在线定制编译 X86/64, NanoPi R2S R4S R5S R6S, 斐讯 Phicomm N1 K2P,  树莓派 Raspberry Pi, 香橙派 Orange Pi, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S 小米AX3200, 红米AC2100, 华硕ASUS, 网件NETGEAR 等主流软硬路由
 - [neargle/my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security) - :atom: [WIP] 整理过去的分享，从零开始的Kubernetes攻防 🧐
