@@ -459,7 +459,6 @@
 
 ## hacktoberfest 
 
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
@@ -708,7 +707,7 @@
 - [eeeeeeeeee-code/wx-hook](https://github.com/eeeeeeeeee-code/wx-hook) - 用于存取记录以前的基址和小程序文件
 - [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
 - [idootop/mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
-- [Valkierja/Mozi-Botnet-theWRE](https://github.com/Valkierja/Mozi-Botnet-theWRE) - mozi僵尸网络的模仿实现  a simulating implementation of mozi botNet virus
+- [KSroido/Mozi-Botnet-theWRE](https://github.com/KSroido/Mozi-Botnet-theWRE) - mozi僵尸网络的模仿实现  a simulating implementation of mozi botNet virus
 - [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVION and PaddlePaddle.
 - [EEEEhex/QQImpl](https://github.com/EEEEhex/QQImpl) - 逆向调用QQ Mojo IPC与WeChat XPlugin
 - [kanadeblisst00/wechat_ocr](https://github.com/kanadeblisst00/wechat_ocr) - 使用Python调用微信本地ocr服务
