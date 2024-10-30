@@ -1036,7 +1036,6 @@
 - [ydf0509/funboost](https://github.com/ydf0509/funboost) - pip install funboost，python全功能分布式函数调度框架,funboost的功能是全面性重量级，用户能想得到的功能99%全都有;funboost的使用方式是轻量级，只有@boost一行代码需要写。支持python所有类型的并发模式和一切知名消息队列中间件，支持如 celery dramatiq等框架整体作为funboost中间件，python函数加速器，框架包罗万象，用户能想
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown with Extension support.
-- [elastic/elasticsearch-py](https://github.com/elastic/elasticsearch-py) - Official Python client for Elasticsearch
 - [wgpsec/whohk](https://github.com/wgpsec/whohk) - whohk，linux下一款强大的应急响应工具  在linux下的应急响应往往需要通过繁琐的命令行来查看各个点的情况，有的时候还需要做一些格式处理，这对于linux下命令不是很熟悉的人比较不友好。本工具将linux下应急响应中常用的一些操作给集合了起来，并处理成了较为友好的格式，只需要通过一个参数就能代替繁琐复杂的命令来实现对各个点的检查。
 - [bit4woo/python_sec](https://github.com/bit4woo/python_sec) - python安全和代码审计相关资料收集 resource collection of python security and code review
 - [al0ne/Vxscan](https://github.com/al0ne/Vxscan) - python3写的综合扫描工具，主要用来存活验证，敏感文件探测(目录扫描/js泄露接口/html注释泄露)，WAF/CDN识别，端口扫描，指纹/服务识别，操作系统识别，POC扫描，SQL注入，绕过CDN，查询旁站等功能，主要用来甲方自测或乙方授权测试，请勿用来搞破坏。
@@ -1203,7 +1202,7 @@
 
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 325 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - An open-source PAM tool alternative to CyberArk.  广受欢迎的开源堡垒机。
 - [jimmy201602/webterminal](https://github.com/jimmy201602/webterminal) - ssh rdp vnc telnet sftp bastion/jump web putty xshell terminal jumpserver audit realtime monitor rz/sz 堡垒机 云桌面 linux devops sftp websocket  file management rz/sz otp 自动化运维 审计 录像 文件管理 sftp上传 实时监控 录像回放 
