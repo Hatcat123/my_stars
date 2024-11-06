@@ -347,6 +347,7 @@
 
 ## Python 
 
+- [jorhelp/Ingram](https://github.com/jorhelp/Ingram) - 网络摄像头漏洞扫描工具 | Webcam vulnerability scanning tool
 - [lijiejie/BBScan](https://github.com/lijiejie/BBScan) - A fast vulnerability scanner helps pentesters pinpoint possibly vulnerable targets from a large number of web servers
 - [Marven11/EtherGhost](https://github.com/Marven11/EtherGhost) - 新一代Webshell管理器，兼容蚁剑与冰蝎的PHP webshell
 - [THUDM/GLM-4](https://github.com/THUDM/GLM-4) - GLM-4 series: Open Multilingual Multimodal Chat LMs | 开源多语言多模态对话模型
