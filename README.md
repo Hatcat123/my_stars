@@ -594,7 +594,6 @@
 
 ## TypeScript 
 
-- [jooooock/wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter) - 在线批量导出微信公众号文章，支持内嵌的音视频导出，无需搭建任何环境，可100%还原文章样式，支持私有部署
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [LLM-Red-Team/hailuo-free-api](https://github.com/LLM-Red-Team/hailuo-free-api) - 🚀 海螺AI大模型逆向API白嫖测试【特长：超自然语音】，支持高速流式输出、语音合成、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
@@ -625,6 +624,7 @@
 
 ## Vue 
 
+- [jooooock/wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter) - 在线批量导出微信公众号文章，支持阅读量、评论数据的导出，支持内嵌的音视频导出，无需搭建任何环境，可100%还原文章样式，支持私有部署
 - [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
 - [JDArmy/DSRE](https://github.com/JDArmy/DSRE) - 数据安全风险枚举框架（Data Security Risk Enumeration）
 - [momosecurity/bombus](https://github.com/momosecurity/bombus) - 合规审计平台
