@@ -672,6 +672,8 @@
 
 ## others 
 
+- [wechatferry/wechatferry](https://github.com/wechatferry/wechatferry) - 基于 WechatFerry 的微信机器人底层框架
+- [yzddmr6/WebCrack](https://github.com/yzddmr6/WebCrack) - WebCrack是一款web后台弱口令/万能密码批量检测工具，在工具中导入后台地址即可进行自动化检测。
 - [jorhelp/Ingram](https://github.com/jorhelp/Ingram) - 网络摄像头漏洞扫描工具 | Webcam vulnerability scanning tool
 - [Bypass007/Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes) - 应急响应实战笔记，一个安全工程师的自我修养。
 - [lijiejie/BBScan](https://github.com/lijiejie/BBScan) - A fast vulnerability scanner helps pentesters pinpoint possibly vulnerable targets from a large number of web servers
