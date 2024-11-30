@@ -218,7 +218,7 @@
 ## chatbot 
 
 - [LLM-Red-Team/hailuo-free-api](https://github.com/LLM-Red-Team/hailuo-free-api) - 🚀 海螺AI大模型逆向API白嫖测试【特长：超自然语音】，支持高速流式输出、语音合成、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
-- [LLM-Red-Team/deepseek-free-api](https://github.com/LLM-Red-Team/deepseek-free-api) - 🚀 DeepSeek-V2大模型逆向API白嫖测试【特长：GPT4平替】，支持高速流式输出、多轮对话，零配置部署，多路token支持。
+- [LLM-Red-Team/deepseek-free-api](https://github.com/LLM-Red-Team/deepseek-free-api) - 🚀 DeepSeek-V2大模型逆向API白嫖测试【特长：GPT4平替】，支持高速流式输出、多轮对话，r1深度思考，零配置部署，多路token支持。
 - [LLM-Red-Team/spark-free-api](https://github.com/LLM-Red-Team/spark-free-api) - 🚀 讯飞星火大模型逆向API白嫖测试【特长：办公助手】，支持高速流式输出、智能体对话、联网搜索、AI绘图、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
 - [LLM-Red-Team/emohaa-free-api](https://github.com/LLM-Red-Team/emohaa-free-api) - 🚀 聆心智能 Emohaa情感陪伴大模型逆向API白嫖测试【特长：共情能力】，支持高速流式输出、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
 - [LLM-Red-Team/metaso-free-api](https://github.com/LLM-Red-Team/metaso-free-api) - 🚀 秘塔AI搜索逆向API白嫖测试【特长：超强检索超长输出】，支持高速流式输出、超强联网搜索（全网or学术以及简洁、深入、研究三种模式），零配置部署，多路token支持
@@ -244,7 +244,7 @@
 ## chatgpt-api 
 
 - [LLM-Red-Team/hailuo-free-api](https://github.com/LLM-Red-Team/hailuo-free-api) - 🚀 海螺AI大模型逆向API白嫖测试【特长：超自然语音】，支持高速流式输出、语音合成、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
-- [LLM-Red-Team/deepseek-free-api](https://github.com/LLM-Red-Team/deepseek-free-api) - 🚀 DeepSeek-V2大模型逆向API白嫖测试【特长：GPT4平替】，支持高速流式输出、多轮对话，零配置部署，多路token支持。
+- [LLM-Red-Team/deepseek-free-api](https://github.com/LLM-Red-Team/deepseek-free-api) - 🚀 DeepSeek-V2大模型逆向API白嫖测试【特长：GPT4平替】，支持高速流式输出、多轮对话，r1深度思考，零配置部署，多路token支持。
 - [LLM-Red-Team/spark-free-api](https://github.com/LLM-Red-Team/spark-free-api) - 🚀 讯飞星火大模型逆向API白嫖测试【特长：办公助手】，支持高速流式输出、智能体对话、联网搜索、AI绘图、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
 - [LLM-Red-Team/emohaa-free-api](https://github.com/LLM-Red-Team/emohaa-free-api) - 🚀 聆心智能 Emohaa情感陪伴大模型逆向API白嫖测试【特长：共情能力】，支持高速流式输出、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
 - [LLM-Red-Team/metaso-free-api](https://github.com/LLM-Red-Team/metaso-free-api) - 🚀 秘塔AI搜索逆向API白嫖测试【特长：超强检索超长输出】，支持高速流式输出、超强联网搜索（全网or学术以及简洁、深入、研究三种模式），零配置部署，多路token支持
@@ -568,7 +568,7 @@
 ## llm 
 
 - [LLM-Red-Team/hailuo-free-api](https://github.com/LLM-Red-Team/hailuo-free-api) - 🚀 海螺AI大模型逆向API白嫖测试【特长：超自然语音】，支持高速流式输出、语音合成、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
-- [LLM-Red-Team/deepseek-free-api](https://github.com/LLM-Red-Team/deepseek-free-api) - 🚀 DeepSeek-V2大模型逆向API白嫖测试【特长：GPT4平替】，支持高速流式输出、多轮对话，零配置部署，多路token支持。
+- [LLM-Red-Team/deepseek-free-api](https://github.com/LLM-Red-Team/deepseek-free-api) - 🚀 DeepSeek-V2大模型逆向API白嫖测试【特长：GPT4平替】，支持高速流式输出、多轮对话，r1深度思考，零配置部署，多路token支持。
 - [LLM-Red-Team/spark-free-api](https://github.com/LLM-Red-Team/spark-free-api) - 🚀 讯飞星火大模型逆向API白嫖测试【特长：办公助手】，支持高速流式输出、智能体对话、联网搜索、AI绘图、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
 - [LLM-Red-Team/emohaa-free-api](https://github.com/LLM-Red-Team/emohaa-free-api) - 🚀 聆心智能 Emohaa情感陪伴大模型逆向API白嫖测试【特长：共情能力】，支持高速流式输出、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
 - [LLM-Red-Team/metaso-free-api](https://github.com/LLM-Red-Team/metaso-free-api) - 🚀 秘塔AI搜索逆向API白嫖测试【特长：超强检索超长输出】，支持高速流式输出、超强联网搜索（全网or学术以及简洁、深入、研究三种模式），零配置部署，多路token支持
@@ -729,7 +729,7 @@
 - [az0ne/Permeable](https://github.com/az0ne/Permeable) - 渗透资料
 - [fkie-cad/nvd-json-data-feeds](https://github.com/fkie-cad/nvd-json-data-feeds) - Community reconstruction of the legacy JSON NVD Data Feeds. This project uses and redistributes data from the NVD API but is neither endorsed nor certified by the NVD.
 - [github/advisory-database](https://github.com/github/advisory-database) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
-- [wy876/POC](https://github.com/wy876/POC) - 收集整理漏洞EXP/POC,大部分漏洞来源网络，目前收集整理了1200多个poc/exp，长期更新。
+- [wy876/POC](https://github.com/wy876/POC) - 收集整理漏洞EXP/POC,大部分漏洞来源网络，目前收集整理了1300多个poc/exp，长期更新。
 - [NothingCw/security_w1k1](https://github.com/NothingCw/security_w1k1) - 大手子们要是使用过后，能给菜鸡弟弟在Issues反馈个用后体验，那就真的是万分感激了。你一赞，我一赞，年薪百万不停转。
 - [lanqian528/chat2api](https://github.com/lanqian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format.
 - [missuo/FreeGPT35](https://github.com/missuo/FreeGPT35) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.
@@ -954,7 +954,7 @@
 - [lujinzhong/Live_basketball_room](https://github.com/lujinzhong/Live_basketball_room) - 跟着singwa老师做的一个高性能篮球赛况直播室，主要包含实时直播模块和多人聊天模块，采用TP5整合原生swoole拓展编写。入门swoole最佳实战
 - [qboy0000/honeypotcollection](https://github.com/qboy0000/honeypotcollection) - 蜜罐集合
 - [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and 
-- [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
+- [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/持续🚧.../ 能力有限，欢迎帮我改进翻译
 - [rebeyond/Behinder](https://github.com/rebeyond/Behinder) - “冰蝎”动态二进制加密网站管理客户端
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [Hatcat123/XianyuSdd](https://github.com/Hatcat123/XianyuSdd) - 爬取闲鱼某关键字实时信息，将最新的发送到钉钉群聊。更多我们共同开发的项目（咸鱼反爬更新，只能作为学习使用）
