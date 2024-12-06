@@ -51,6 +51,7 @@
 - [firefox](#firefox)
 - [flask](#flask)
 - [framework](#framework)
+- [gis](#gis)
 - [github](#github)
 - [go](#go)
 - [golang](#golang)
@@ -121,6 +122,8 @@
 - [terminal](#terminal)
 - [testing](#testing)
 - [typescript](#typescript)
+- [vim](#vim)
+- [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -355,6 +358,7 @@
 
 ## docker 
 
+- [vikyd/note](https://github.com/vikyd/note) - 一些技术笔记
 - [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！
 - [GZTimeWalker/GZCTF](https://github.com/GZTimeWalker/GZCTF) - The GZ::CTF project, an open source CTF platform.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -415,6 +419,10 @@
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
 
+## gis 
+
+- [vikyd/note](https://github.com/vikyd/note) - 一些技术笔记
+
 ## github 
 
 - [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese) - GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
@@ -433,6 +441,7 @@
 
 ## golang 
 
+- [vikyd/note](https://github.com/vikyd/note) - 一些技术笔记
 - [Dliv3/Venom](https://github.com/Dliv3/Venom) - Venom - A Multi-hop Proxy for Penetration Testers
 - [GhostTroops/scan4all](https://github.com/GhostTroops/scan4all) - Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
@@ -524,6 +533,7 @@
 
 ## javascript 
 
+- [vikyd/note](https://github.com/vikyd/note) - 一些技术笔记
 - [Marven11/EtherGhost](https://github.com/Marven11/EtherGhost) - 新一代Webshell管理器，兼容蚁剑与冰蝎的PHP webshell
 - [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
@@ -980,7 +990,6 @@
 - [Joynice/eog](https://github.com/Joynice/eog) - 专家值守平台
 - [ring04h/papers](https://github.com/ring04h/papers) - my security summit papers
 - [w2n1ck/ASCTF-platform](https://github.com/w2n1ck/ASCTF-platform) - 一个简单的CTF测试平台，做培训上用，目前没有做相关安全方面的策略，不要部署到线上
-- [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
 - [rootphantomer/Blasting_dictionary](https://github.com/rootphantomer/Blasting_dictionary) - 爆破字典
 - [liuxuanqiang/wechat-weapp-mall](https://github.com/liuxuanqiang/wechat-weapp-mall) - 微信小程序-移动端商城
 - [coolhwm/leshare-shop-wepy](https://github.com/coolhwm/leshare-shop-wepy) - 基于微信小程序的在线商城，采用wepy框架开发
@@ -1233,6 +1242,15 @@
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [PuruVJ/macos-preact](https://github.com/PuruVJ/macos-preact) - 
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
+
+## vim 
+
+- [vikyd/note](https://github.com/vikyd/note) - 一些技术笔记
+
+## vpn 
+
+- [hwdsl2/docker-ipsec-vpn-server](https://github.com/hwdsl2/docker-ipsec-vpn-server) - Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
+- [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
 
 ## vue 
 
