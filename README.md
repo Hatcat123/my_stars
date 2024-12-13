@@ -561,7 +561,6 @@
 - [xykt/IPQuality](https://github.com/xykt/IPQuality) - A script for IP quality detection
 - [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips & tricks
 - [hackerschoice/segfault](https://github.com/hackerschoice/segfault) - 
-- [MoRan23/GZCTF-Auto](https://github.com/MoRan23/GZCTF-Auto) - GZCTF的一键部署脚本，目前支持单 docker 和 docker+k3s 部署。
 - [leitbogioro/Fuck_Aliyun](https://github.com/leitbogioro/Fuck_Aliyun) - 
 - [fkie-cad/nvd-json-data-feeds](https://github.com/fkie-cad/nvd-json-data-feeds) - Community reconstruction of the legacy JSON NVD Data Feeds. This project uses and redistributes data from the NVD API but is neither endorsed nor certified by the NVD.
 - [enomothem/Whoamifuck](https://github.com/enomothem/Whoamifuck) - 用于Linux应急响应，快速排查异常用户登录情况和入侵信息排查，准确定位溯源时间线，高效辅助还原攻击链。
